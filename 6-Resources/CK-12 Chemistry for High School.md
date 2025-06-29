@@ -1,0 +1,1 @@
+https://flexbooks.ck12.org/cbook/ck-12-chemistry-flexbook-2.0/?_gl=1*1jh3mrg*_gcl_au*MTQ2MTQ5MzIwNS4xNzUwNjcwMjM2*_ga*MjAzODUwMjU0My4xNzUwNjcwMjM2*_ga_7PBE4L0PZZ*czE3NTA2NzAyMzUkbzEkZzAkdDE3NTA2NzAyMzYkajU5JGwwJGgxNDc4MTczMTM5JGR5d19WVXNvNm9ZTE11cjVSa2FodUw5VWwyQjlhX3hzZ2RR

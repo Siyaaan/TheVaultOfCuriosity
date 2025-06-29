@@ -1,0 +1,1 @@
+If only the developer are satisfied with the idea and plan of the leader

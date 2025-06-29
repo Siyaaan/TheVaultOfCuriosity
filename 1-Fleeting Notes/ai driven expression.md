@@ -1,0 +1,1 @@
+the [[ability for a player to cook]] can be great and cozy. This would be a great idea to implement an ai driven dioalogue to express how the taste is. This would also be [[an unexpected and good randomness]] in the game.

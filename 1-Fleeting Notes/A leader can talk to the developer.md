@@ -1,0 +1,1 @@
+To ease the tediousness of having to talk [[Leader can talk to ai and it will translate what they needs]].

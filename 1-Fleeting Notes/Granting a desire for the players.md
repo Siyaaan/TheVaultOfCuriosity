@@ -1,0 +1,1 @@
+Players would also achieve something extraordinary and can have a wish to a deity (developer) in accordance to the world ofcourse. 

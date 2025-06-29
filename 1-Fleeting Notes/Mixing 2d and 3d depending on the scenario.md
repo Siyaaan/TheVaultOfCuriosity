@@ -1,0 +1,1 @@
+Is it even a good to mix it? 2d for clan or guild wars while 3d for fighting a dungeon boss. the [[characters should be 2d and 3d]]. or, [[fps 2d?]]

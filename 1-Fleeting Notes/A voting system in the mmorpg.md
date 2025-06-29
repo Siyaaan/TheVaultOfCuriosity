@@ -1,0 +1,1 @@
+A real player you can assign as a leader in the world. To have some order, [[A leader can talk to the developer]], 

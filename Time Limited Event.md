@@ -1,0 +1,1 @@
+[[Guild Wars]], [[Nation Wars]] should be limited time event only 

@@ -1,0 +1,1 @@
+From [[Pixilated 2d mmorpg]] which is inspired soulknight, I'm also interested in incorporating the design and artstyle of [[Don't Starve]] in the open world mmorpg

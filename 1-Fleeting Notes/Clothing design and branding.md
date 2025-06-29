@@ -1,0 +1,1 @@
+I have come across a titkok video about a website which lets you sell your own made design on clothing which you can create in other simple editor like canva while not owning a single clothe. The website-printify.com- then links you to your shopify account. 
