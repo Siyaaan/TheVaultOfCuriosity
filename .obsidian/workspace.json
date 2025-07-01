@@ -56,12 +56,14 @@
             "id": "eb9ef0836d4f7371",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "6-Resources/Carmine Gallo - Talk Like TED_ The 9 Public-Speaking Secrets of the World's Top Minds (2014, St. Martin's Press) - libgen.li.pdf"
+                "file": "1-Fleeting Notes/Leader can talk to ai and it will translate what they needs.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Carmine Gallo - Talk Like TED_ The 9 Public-Speaking Secrets of the World's Top Minds (2014, St. Martin's Press) - libgen.li"
+              "icon": "lucide-file",
+              "title": "Leader can talk to ai and it will translate what they needs"
             }
           },
           {
@@ -243,17 +245,18 @@
   },
   "active": "eb9ef0836d4f7371",
   "lastOpenFiles": [
+    "A systematic approach to gathering information.md",
+    "1-Fleeting Notes/Dig that concept on a deeper level.md",
     "6-Resources/Carmine Gallo - Talk Like TED_ The 9 Public-Speaking Secrets of the World's Top Minds (2014, St. Martin's Press) - libgen.li.pdf",
     "Understanding is a process, not an outcome.md",
     "Untitled",
     "What I am passionate about.md",
     "Untitled.md",
-    "HTTP PARAMETER POLLUTION.md",
+    "12-Literature Notes/HTTP PARAMETER POLLUTION.md",
     "6-Resources/Yaworski, Peter - Real-World Bug Hunting. A Field Guide to Web Hacking (2019, No Starch Press) - libgen.li.pdf",
     "12-Literature Notes/Open Redirect Vulnerabilities.md",
     "6-Resources/[A Top Down Approach] James F. Kurose - Computer Networking_ A Top-Down Approach, 7th Edition (2020, Pearson) - libgen.li.pdf",
     "6-Resources/Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Cliffo - Introduction to algorithms (2001, The MIT Press) - libgen.li.pdf",
-    "A systematic approach to gathering information.md",
     "1-Fleeting Notes/2d MMORPG.md",
     "1-Fleeting Notes/Time Limited Event.md",
     "Welcome.md",
