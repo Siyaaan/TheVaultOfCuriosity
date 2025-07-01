@@ -6,4 +6,4 @@ there should be a specific time in like twice a year where you try to explain th
 
 this is related to neuroplacticity and might even be it
 
-always 
+always be in movement in your knowledge,
