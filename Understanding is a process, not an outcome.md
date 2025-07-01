@@ -6,4 +6,4 @@ there should be a specific time in like twice a year where you try to explain th
 
 this is related to neuroplacticity and might even be it
 
-always be in movement in your knowledge,
+always be in movement in your knowledge, don't stop. this is related to keep improving even if it is 1%.
