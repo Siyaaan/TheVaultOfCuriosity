@@ -13,6 +13,9 @@ This can also be apply to HTML <meta> tags and javascript.
 	1. in this example, a "checkout" parameter, which is different from the previous example. Instead of a direct approach where you immediately sent to the attacker page, you first have to go to the legit page of the base website, which is the login page of shopify. It is only after you click the login which the checkout parameter is occured and activated. thus, leading you to the attacker site.
 *note that the difference of the end url result differs. first example shows that the exact url of the attacker is fully visible without any extra domain. THIS is the opposite for 2nd example where the shopify has its tailed url which is the attacker, so two domains in 1 url. however, only the rightmost domain is executed and run. And that is how users are "fooled"*
 
+3. HACKERONE INTERSTITIAL REDIRECT
+	1. Everytime you leave the browser, a website with interstitial notifies you that you are trying to leave from their domain and allows you to be aware and cautious. There are instances where a website is trusted and doesn't need to have instertitial redirect, just like how hackerone trusted it's services like *zendesk*. Problem arises when zendesk redirect you to another site as it doesn't use interstitial unlike hackerone. So there's a possibility that you can still get redirected to from hackerone and its trusted site and from its trusted site down to the malicious domain.
+
 
 **Insights**
 Open redirects occur when a developer mistrusts attacker-controlled input

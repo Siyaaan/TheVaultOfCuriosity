@@ -1,0 +1,1 @@
+is there a way where I can practice these sort of attacks
