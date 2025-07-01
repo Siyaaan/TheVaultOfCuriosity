@@ -1,1 +1,3 @@
 Whenever someone achieves something in a game, the developers would then honor that player such as [[making a statue for them in the world]], [[recreating their character with ai which then can be boss, guide, etc]].
+
+[[achievements to solidify legacy]]
