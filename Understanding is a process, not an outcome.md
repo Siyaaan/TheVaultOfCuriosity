@@ -9,3 +9,7 @@ this is related to neuroplacticity and might even be it
 always be in movement in your knowledge, don't stop. this is related to keep improving even if it is 1%.
 
 remember when you failed
+
+don't label yourself when you failed, just go fix the issue. this also relates to an activity I couldn't answer simply because I literally got mindblanked. 
+
+ITS ALL PART OF THE PROCESS
