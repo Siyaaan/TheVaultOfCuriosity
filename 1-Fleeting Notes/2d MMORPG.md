@@ -8,5 +8,7 @@ creative boundary
 
 know that I can't make every person play this game and that should be the limitation I need to keep in mmind
 
+Even if it is diverse, there should still be and objective in the game. Unity?
+
 what will
 
