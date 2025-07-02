@@ -6,5 +6,7 @@ the game is so diverse that it should not affect how it should be played if a pl
 
 creative boundary
 
+know that I can't make every person play this game and that should be the limitation I need to keep in mmind
+
 what will
 
