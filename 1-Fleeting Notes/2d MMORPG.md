@@ -12,6 +12,9 @@ Even if it is diverse, there should still be and objective in the game. Unity? r
 
 In exploration, there's a team of fighters, cooks, builders
 
+You don’t need everyone in _one_ world.  
+You just need everyone to feel like they’re shaping _the_ world.
+
 what will
 
 REALM
