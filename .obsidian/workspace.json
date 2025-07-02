@@ -49,11 +49,11 @@
             "id": "1c77ad99e089f09a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "epub",
               "state": {
-                "file": "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.pdf"
+                "file": "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.epub"
               },
-              "icon": "lucide-file-text",
+              "icon": "lucide-file",
               "title": "Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li"
             }
           }
@@ -210,6 +210,7 @@
   "active": "1c77ad99e089f09a",
   "lastOpenFiles": [
     "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.pdf",
+    "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.epub",
     "1-Fleeting Notes/2d MMORPG.md",
     "1-Fleeting Notes/Pixilated 2d mmorpg.md",
     "1-Fleeting Notes/Making a legacy for the players.md",
