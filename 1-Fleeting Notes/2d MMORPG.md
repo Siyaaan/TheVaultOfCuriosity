@@ -10,6 +10,8 @@ know that I can't make every person play this game and that should be the limita
 
 Even if it is diverse, there should still be and objective in the game. Unity? raiding a city, protecting from natural calamities like monster raid, disaster, raids.
 
+In exploration, there's a team of fighters, cooks, builders
+
 what will
 
 REALM
