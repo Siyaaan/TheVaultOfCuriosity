@@ -15,6 +15,8 @@ In exploration, there's a team of fighters, cooks, builders
 You don’t need everyone in _one_ world.  
 You just need everyone to feel like they’re shaping _the_ world.
 
+ARENA
+
 what will
 
 REALM
