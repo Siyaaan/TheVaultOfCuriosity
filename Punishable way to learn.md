@@ -1,0 +1,1 @@
+Some games are intended to make you learn how to play it by trial and error
