@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Insight Notes/Don't Starve's unclear progression design.md",
+                "file": "3-Insight Notes/Unclear progression design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Don't Starve's unclear progression design"
+              "title": "Unclear progression design"
             }
           },
           {
@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3-Insight Notes/Don't Starve's unclear progression design.md",
+                "file": "3-Insight Notes/Unclear progression design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Don't Starve's unclear progression design"
+              "title": "Unclear progression design"
             }
           },
           {
@@ -86,7 +86,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -235,10 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "71c4d6523e161aed",
+  "active": "6871e7137b75881a",
   "lastOpenFiles": [
+    "3-Insight Notes/Unclear progression design.md",
     "Punishable way to learn.md",
-    "3-Insight Notes/Don't Starve's unclear progression design.md",
     "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "3-Insight Notes/Untitled 2.md",
     "1-Fleeting Notes/2d MMORPG.md",
