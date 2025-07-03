@@ -1,4 +1,4 @@
-Let us be clear with the content of the game. So there's some dungeons and raids, classes of characters amazing skills that have variety of skillset from mechanically to be tricky, boss, grinding, [[Making a legacy for the players]], different category of sub games, [[ability for a player to cook]], [[ability for players to farm]], [[A leader can talk to the developer]], [[A voting system in the mmorpg]], can be a moba, can be war, engineer a permanent place in the world, a good worldbuilding which then changes overtime, events, festivals, alchemy, fantasy creature, [[a good randomness]], mysteriest
+Let us be clear with the content of the game. So there's some dungeons and raids, classes of characters amazing skills that have variety of skillset from mechanically to be tricky, boss, grinding, [[Making a legacy for the players]], different category of sub games, , , [[A leader can talk to the developer]], [[A voting system in the mmorpg]], can be a moba, can be war, engineer a permanent place in the world, a good worldbuilding which then changes overtime, events, festivals, alchemy, fantasy creature, [[a good randomness]], mysteriest
 0
 everyupdate, there will be a chance for players to discover it in the world and the will get credited for it.
 
@@ -21,7 +21,12 @@ what will
 
 REALM
 ELARIA
+REMNARA
 
 "*The Realm Remembers*"
 
 In a starting game, players are then given a single path where they would walk for a certain amount until they come across fewer housing and then the sight of a really large city
+
+**SKILLS**
+[[ability for a player to cook]]
+[[ability for players to farm]]
