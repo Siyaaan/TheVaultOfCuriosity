@@ -4,61 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "82286d1217fabc39",
+        "id": "11093ba0ea82ad39",
         "type": "tabs",
         "children": [
-          {
-            "id": "3bf9e95e22608687",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "6-Resources/Yaworski, Peter - Real-World Bug Hunting. A Field Guide to Web Hacking (2019, No Starch Press) - libgen.li.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Yaworski, Peter - Real-World Bug Hunting. A Field Guide to Web Hacking (2019, No Starch Press) - libgen.li"
-            }
-          },
-          {
-            "id": "5d0c884c6b547039",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "6-Resources/[A Top Down Approach] James F. Kurose - Computer Networking_ A Top-Down Approach, 7th Edition (2020, Pearson) - libgen.li.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "[A Top Down Approach] James F. Kurose - Computer Networking_ A Top-Down Approach, 7th Edition (2020, Pearson) - libgen.li"
-            }
-          },
-          {
-            "id": "90a4ec51433931bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Understanding is a process, not an outcome.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Understanding is a process, not an outcome"
-            }
-          },
           {
             "id": "1c77ad99e089f09a",
             "type": "leaf",
             "state": {
-              "type": "epub",
+              "type": "markdown",
               "state": {
-                "file": "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.epub"
+                "file": "1-Fleeting Notes/2d MMORPG.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li"
+              "title": "2d MMORPG"
+            }
+          },
+          {
+            "id": "5a46997123ed2eb6",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -72,13 +47,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fcc95c03976d61fa",
+            "id": "651fd4f08876c644",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -150,12 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "12-Literature Notes/Devotionals/A light for My path.md",
+                "file": "1-Fleeting Notes/2d MMORPG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from A light for My path"
+              "title": "Outgoing links from 2d MMORPG"
             }
           },
           {
@@ -209,10 +184,13 @@
   },
   "active": "1c77ad99e089f09a",
   "lastOpenFiles": [
-    "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.pdf",
-    "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.epub",
+    "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "1-Fleeting Notes/2d MMORPG.md",
     "1-Fleeting Notes/Pixilated 2d mmorpg.md",
+    "6-Resources/Yaworski, Peter - Real-World Bug Hunting. A Field Guide to Web Hacking (2019, No Starch Press) - libgen.li.pdf",
+    "6-Resources/[A Top Down Approach] James F. Kurose - Computer Networking_ A Top-Down Approach, 7th Edition (2020, Pearson) - libgen.li.pdf",
+    "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.epub",
+    "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.pdf",
     "1-Fleeting Notes/Making a legacy for the players.md",
     "1-Fleeting Notes/Leader can talk to ai and it will translate what they needs.md",
     "A systematic approach to gathering information.md",
@@ -223,9 +201,7 @@
     "What I am passionate about.md",
     "Untitled.md",
     "12-Literature Notes/HTTP PARAMETER POLLUTION.md",
-    "6-Resources/Yaworski, Peter - Real-World Bug Hunting. A Field Guide to Web Hacking (2019, No Starch Press) - libgen.li.pdf",
     "12-Literature Notes/Open Redirect Vulnerabilities.md",
-    "6-Resources/[A Top Down Approach] James F. Kurose - Computer Networking_ A Top-Down Approach, 7th Edition (2020, Pearson) - libgen.li.pdf",
     "6-Resources/Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Cliffo - Introduction to algorithms (2001, The MIT Press) - libgen.li.pdf",
     "1-Fleeting Notes/Time Limited Event.md",
     "Welcome.md",
@@ -244,8 +220,6 @@
     "6-Resources/S.R.Jena_CiscoPacketTracerImplementation2.pdf",
     "6-Resources/Ellen G. White - The Faith I Live By (2010) - libgen.li.pdf",
     "7-Archive/Images/Pasted image 20250628222828.png",
-    "6-Resources/[publications] Linus Pauling - General Chemistry (1988, Dover) - libgen.li.pdf",
-    "6-Resources/Narasimha Karumanchi - Data Structures and Algorithms Made Easy_ Data Structures and Algorithmic Puzzles (2017, CareerMonk Plublications) - libgen.li.pdf.crdownload",
     "7-Archive/Images/Pasted image 20250623155750.png",
     "7-Archive/Images/Pasted image 20250623155707.png",
     "Untitled.canvas",
