@@ -4,68 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "11093ba0ea82ad39",
+        "id": "92a32089717346b8",
         "type": "tabs",
-        "dimension": 60.40268456375839,
         "children": [
           {
-            "id": "1c77ad99e089f09a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Fleeting Notes/2d MMORPG.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2d MMORPG"
-            }
-          },
-          {
-            "id": "71c4d6523e161aed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Insight Notes/Unclear progression design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unclear progression design"
-            }
-          },
-          {
-            "id": "6871e7137b75881a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Fleeting Notes/2d MMORPG.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2d MMORPG"
-            }
-          },
-          {
-            "id": "33c7f3299d189da4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "500684c2e50f1585",
+            "id": "e4a2f2054c793dcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -76,69 +19,13 @@
               },
               "icon": "lucide-file",
               "title": "I quit WoW and spent a year addicted to Oldschool Runescape"
-            }
-          },
-          {
-            "id": "5a46997123ed2eb6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li"
-            }
-          },
-          {
-            "id": "12288bd80bd7e72c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3-Insight Notes/Unclear progression design.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Unclear progression design"
-            }
-          },
-          {
-            "id": "96726d8631b730d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6-Resources/I quit WoW and spent a year addicted to Oldschool Runescape.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "I quit WoW and spent a year addicted to Oldschool Runescape"
-            }
-          },
-          {
-            "id": "23936af9db850708",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Restricting Systems of MMOs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Restricting Systems of MMOs"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "612fc2e7dc18acbd",
         "type": "tabs",
-        "dimension": 39.59731543624161,
         "children": [
           {
             "id": "32c0abc5a1498d15",
@@ -152,6 +39,20 @@
               },
               "icon": "lucide-file",
               "title": "Untitled 1"
+            }
+          },
+          {
+            "id": "96726d8631b730d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sandboxes-Too much freedom for the players.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sandboxes-Too much freedom for the players"
             }
           },
           {
@@ -315,8 +216,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5f4135e59f9314f4",
+  "active": "e4a2f2054c793dcf",
   "lastOpenFiles": [
+    "Sandboxes-Too much freedom for the players.md",
     "6-Resources/I quit WoW and spent a year addicted to Oldschool Runescape.md",
     "Restricting Systems of MMOs.md",
     "Untitled 1.md",
@@ -350,7 +252,6 @@
     "4-Projects/Untitled 3.md",
     "2-Conceptual Notes/Untitled 1.md",
     "11-Daily Notes/Untitled.md",
-    "1-Fleeting Notes/preventing the outcome of something while keeping the event.md",
     "6-Resources/S.R.Jena_CiscoPacketTracerImplementation2.pdf",
     "6-Resources/Ellen G. White - The Faith I Live By (2010) - libgen.li.pdf",
     "7-Archive/Images/Pasted image 20250628222828.png",
