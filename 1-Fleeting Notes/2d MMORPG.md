@@ -24,3 +24,4 @@ ELARIA
 
 "*The Realm Remembers*"
 
+In a starting game, players are then given a single path where they would walk for a certain amount until they come across fewer housing and then the sight of a really large city
