@@ -1,3 +1,5 @@
 "the failure of many MMOs is their insistence or better yet their insecurity in allowing their players the agency to approach them at their own pace and influence them in ways not meticulously orchestrated by the developers as a result we often see modern MMOs employ restricting systems"
 
 REFERENCE = [[I quit WoW and spent a year addicted to Oldschool Runescape]]
+
+[[Why are developers insecure of their own player base?]]
