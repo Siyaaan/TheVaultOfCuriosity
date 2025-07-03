@@ -3,3 +3,4 @@
 REFERENCE = [[I quit WoW and spent a year addicted to Oldschool Runescape]]
 
 [[Why are developers insecure of their own player base?]]
+[[How Elaria would not restrict players]]

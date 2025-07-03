@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6-Resources/I quit WoW and spent a year addicted to Oldschool Runescape.md",
+                "file": "Restricting Systems of MMOs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I quit WoW and spent a year addicted to Oldschool Runescape"
+              "title": "Restricting Systems of MMOs"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Fleeting Notes/2d MMORPG.md",
+                "file": "How Elaria would not restrict players.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2d MMORPG"
+              "title": "How Elaria would not restrict players"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "612fc2e7dc18acbd",
@@ -244,16 +243,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b41387642b54a71",
+  "active": "204c94147bb1cc2a",
   "lastOpenFiles": [
+    "Punishable way to learn.md",
+    "How Elaria would not restrict players.md",
+    "A systematic approach to gathering information.md",
     "6-Resources/I quit WoW and spent a year addicted to Oldschool Runescape.md",
+    "Restricting Systems of MMOs.md",
+    "Untitled.md",
     "1-Fleeting Notes/2d MMORPG.md",
     "Sandboxes-Too much freedom for the players.md",
-    "Restricting Systems of MMOs.md",
-    "Untitled 1.md",
-    "Untitled.md",
     "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
-    "Punishable way to learn.md",
     "3-Insight Notes/Unclear progression design.md",
     "3-Insight Notes/Untitled 2.md",
     "1-Fleeting Notes/Pixilated 2d mmorpg.md",
@@ -263,7 +263,6 @@
     "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.pdf",
     "1-Fleeting Notes/Making a legacy for the players.md",
     "1-Fleeting Notes/Leader can talk to ai and it will translate what they needs.md",
-    "A systematic approach to gathering information.md",
     "1-Fleeting Notes/Dig that concept on a deeper level.md",
     "6-Resources/Carmine Gallo - Talk Like TED_ The 9 Public-Speaking Secrets of the World's Top Minds (2014, St. Martin's Press) - libgen.li.pdf",
     "Understanding is a process, not an outcome.md",
