@@ -1,0 +1,1 @@
+Don't starve's objective is survival, but the path to it is unclear. It doesn't tell you what to do exactly.
