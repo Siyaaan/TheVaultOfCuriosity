@@ -15,6 +15,10 @@ In exploration, there's a team of fighters, cooks, builders
 You don’t need everyone in _one_ world.  
 You just need everyone to feel like they’re shaping _the_ world.
 
+What if instead of a real person as a leader, it is an ai where it has its own personality and can affect the map as well as the story
+
+yeahyeah, there should be a story like when you visit a temple or a stature, there is a clickable 
+
 ARENA
 
 what will
