@@ -1,4 +1,4 @@
-Let us be clear with the content of the game. So there's some dungeons and raids, classes of characters amazing skills that have variety of skillset from mechanically to be tricky, boss, grinding, [[Making a legacy for the players]], different category of sub games, , , [[A leader can talk to the developer]], [[A voting system in the mmorpg]], can be a moba, can be war, engineer a permanent place in the world, a good worldbuilding which then changes overtime, events, festivals, alchemy, fantasy creature, [[a good randomness]], mysteriest
+Let us be clear with the content of the game. So there's some dungeons and raids, classes of characters amazing skills that have variety of skillset from mechanically to be tricky, boss, grinding, [[Making a legacy for the players]], different category of sub games, , , [[A leader can talk to the developer]], , can be a moba, can be war, , a good worldbuilding which then changes overtime, events, festivals, alchemy, fantasy creature, [[a good randomness]], mysteriest
 0
 everyupdate, there will be a chance for players to discover it in the world and the will get credited for it.
 
@@ -30,3 +30,13 @@ In a starting game, players are then given a single path where they would walk f
 **SKILLS**
 [[ability for a player to cook]]
 [[ability for players to farm]]
+
+**PVE**
+
+**PVP**
+
+**WORLDBUILDING**
+[[engineer a permanent place in the world]]
+
+**FEATURES**
+[[A voting system in the mmorpg]]
