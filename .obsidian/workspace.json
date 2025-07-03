@@ -35,7 +35,8 @@
               "title": "2d MMORPG"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "612fc2e7dc18acbd",
@@ -243,10 +244,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "204c94147bb1cc2a",
+  "active": "3b41387642b54a71",
   "lastOpenFiles": [
-    "1-Fleeting Notes/2d MMORPG.md",
     "6-Resources/I quit WoW and spent a year addicted to Oldschool Runescape.md",
+    "1-Fleeting Notes/2d MMORPG.md",
     "Sandboxes-Too much freedom for the players.md",
     "Restricting Systems of MMOs.md",
     "Untitled 1.md",
