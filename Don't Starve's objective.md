@@ -1,1 +1,1 @@
-Don't Starve's main objective is to survive as long as possible.
+Don't Starve's main goal is to survive as long as possible. 
