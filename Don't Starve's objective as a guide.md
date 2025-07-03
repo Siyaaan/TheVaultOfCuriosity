@@ -1,1 +1,1 @@
-Don't Starve's main objective is to survive as long as possible. However, the steps towards it is not clear as much and is only revealed through deaths.
+Don't Starve's main objective is to survive as long as possible. However, the steps towards it is not clear as much and is only revealed through deaths. it is through trial and error in which you begin how to understand the game.
