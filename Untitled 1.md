@@ -1,3 +1,3 @@
 "the failure of many MMOs is their insistence or better yet their insecurity in allowing their players the agency to approach them at their own pace and influence them in ways not meticulously orchestrated by the developers as a result we often see modern MMOs employ restricting systems"
 
-This solidifies my idea of ELARIA: The Realm Remembers where a voting leader of a system will be implemented and those leaders will then have the ability to talk to the developers about how would they want to 
+This solidifies my idea of ELARIA: The Realm Remembers where a voting leader of a system will be implemented and those leaders will then have the ability to talk to the developers about how would they want their country to be.
