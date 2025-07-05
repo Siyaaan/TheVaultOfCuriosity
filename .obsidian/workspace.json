@@ -73,14 +73,14 @@
             "id": "5f4135e59f9314f4",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -243,8 +243,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "204c94147bb1cc2a",
+  "active": "5f4135e59f9314f4",
   "lastOpenFiles": [
+    "1-Fleeting Notes/2d MMORPG-REMNARA.md",
     "3-Insight Notes/How Elaria would not restrict players.md",
     "3-Insight Notes/Unclear progression design.md",
     "1-Fleeting Notes/Dig that concept on a deeper level.md",
@@ -259,7 +260,6 @@
     "12-Literature Notes/Restricting Systems of MMOs.md",
     "6-Resources/I quit WoW and spent a year addicted to Oldschool Runescape.md",
     "Untitled.md",
-    "1-Fleeting Notes/2d MMORPG-REMNARA.md",
     "Sandboxes-Too much freedom for the players.md",
     "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "3-Insight Notes/Untitled 2.md",
