@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Kite Runner.md",
+                "file": "The Kite Runner - 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Kite Runner"
+              "title": "The Kite Runner - 1"
             }
           }
         ]
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Kite Runner.md",
+                "file": "The Kite Runner - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Kite Runner"
+              "title": "Backlinks for The Kite Runner - 1"
             }
           },
           {
@@ -204,7 +204,7 @@
   "active": "d5e9b9f36bab6343",
   "lastOpenFiles": [
     "1-Fleeting Notes/The Feeling of Mysteriousness.md",
-    "The Kite Runner.md",
+    "The Kite Runner - 1.md",
     "Untitled 1.md",
     "14-Templates/LN - Book Review.md",
     "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
