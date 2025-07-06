@@ -1,9 +1,13 @@
 ---
-Date: 2025-07-06
+Date: ""
 tags: 
-Source:
+Source: 
+AI:
 ---
 **MAIN**
 
-**Examples**
+**EXAMPLES**
 
+**PRACTICE**
+
+**INSIGHTS**
