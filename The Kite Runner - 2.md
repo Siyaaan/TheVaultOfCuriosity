@@ -5,7 +5,7 @@ Source: "[[Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.l
 Pages:
 ---
 **MAIN**
-
+Wait, it is only natural for them to marry their 1st cousiin?
 
 
 
