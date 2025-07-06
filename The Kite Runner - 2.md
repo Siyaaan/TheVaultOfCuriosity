@@ -7,7 +7,7 @@ Pages:
 **MAIN**
 Wait, it is only natural for them to marry their 1st cousin?
 
-Here, we delve into the usual life of both of the children with their own fathers, and learned the backstory starting from their birth 
+Here, we delve into the usual life of both the children with their own fathers, and learned the backstory starting from their birth 
 
 
 **INSIGHTS**
