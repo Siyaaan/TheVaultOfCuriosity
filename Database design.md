@@ -35,3 +35,5 @@ Hierarchy for dependencies and packages
 can be integrated with ai for better analysis 
 
 A map of how apps interact with each other, specially libraries.
+
+Not only installation, but also files you created, deleted, modified.
