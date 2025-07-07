@@ -17,6 +17,7 @@ id INTEGER PRIMARY KEY AUTOINCREMENT,
 	Dependency for another package
 	location of those filesssss
 	languages used
+	Function of the app (for login? for statusbar?)
 
 What are the possible types of files?
 .config, driver

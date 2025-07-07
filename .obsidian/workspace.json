@@ -104,12 +104,14 @@
             "id": "ad276b3526a8e71f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf"
+                "file": "Database design.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li"
+              "icon": "lucide-file",
+              "title": "Database design"
             }
           }
         ]
@@ -276,11 +278,11 @@
   },
   "active": "ad276b3526a8e71f",
   "lastOpenFiles": [
+    "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "Database design.md",
     "I have to be more open minded on the situations of others.md",
     "q.md",
     "The Kite Runner - 2.md",
-    "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "Untitled",
     "The Kite Runner - 1.md",
     "14-Templates/LN - Book Review.md",
@@ -304,7 +306,6 @@
     "6-Resources/I quit WoW and spent a year addicted to Oldschool Runescape.md",
     "14-Templates/Insight Notes.md",
     "3-Insight Notes/How Elaria would not restrict players.md",
-    "12-Literature Notes/Open Redirect Vulnerabilities.md",
     "6-Resources/Yaworski, Peter - Real-World Bug Hunting. A Field Guide to Web Hacking (2019, No Starch Press) - libgen.li.pdf",
     "6-Resources/[A Top Down Approach] James F. Kurose - Computer Networking_ A Top-Down Approach, 7th Edition (2020, Pearson) - libgen.li.pdf",
     "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.epub",
