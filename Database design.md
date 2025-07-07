@@ -14,6 +14,7 @@ id INTEGER PRIMARY KEY AUTOINCREMENT,
     Times retried
     time it took to install
 	how good the connection is
+	Dependency for another package
 
 A search feature where you can put a review about the post installation, maybe just an option you can choose so it will consistent with other apps
 	
