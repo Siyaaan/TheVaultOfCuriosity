@@ -1,0 +1,1 @@
+Maybe for optimization, players will queue up to fight something or solve and it will be random, then they will get accredited for it. It can be major or minor mission
