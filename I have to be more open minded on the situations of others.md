@@ -1,0 +1,1 @@
+I really can't blame someone who is struggling on their course. They have their own problems which are not only only on studies but also on their self, family, etc.
