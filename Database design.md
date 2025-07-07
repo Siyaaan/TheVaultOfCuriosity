@@ -15,7 +15,7 @@ id INTEGER PRIMARY KEY AUTOINCREMENT,
     time it took to install
 	how good the connection is
 
-A search feature where you can put a review about the post installation
+A search feature where you can put a review about the post installation, maybe just an option you can choose so it will consistent with other apps
 	
 it can also record uninstallation
 time it took to uninstall
