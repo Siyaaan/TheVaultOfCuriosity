@@ -1,5 +1,14 @@
-name of package installer
-date
-name
-location
-size
+id INTEGER PRIMARY KEY AUTOINCREMENT,
+    installer TEXT,
+    date TEXT,
+    name TEXT,
+    version TEXT,
+    description TEXT,
+    location TEXT,
+    size INTEGER,
+    url TEXT,
+    license TEXT,
+    optional_deps TEXT,
+    required_by TEXT,
+    Status of Installation,
+    Times retried
