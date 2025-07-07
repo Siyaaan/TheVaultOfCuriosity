@@ -15,7 +15,7 @@ id INTEGER PRIMARY KEY AUTOINCREMENT,
     time it took to install
 	how good the connection is
 
-
+A search feature where you can put a review about the post installation
 	
 it can also record uninstallation
 time it took to uninstall
