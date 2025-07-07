@@ -21,7 +21,7 @@ A search feature where you can put a review about the post installation, maybe j
 it can also record uninstallation
 time it took to uninstall
 
-
+location of those filesssss
 
 /////
 Hierarchy for dependencies and packages 
