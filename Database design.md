@@ -12,3 +12,5 @@ id INTEGER PRIMARY KEY AUTOINCREMENT,
     required_by TEXT,
     Status of Installation,
     Times retried
+
+it can also record uninstallation
