@@ -15,13 +15,17 @@ id INTEGER PRIMARY KEY AUTOINCREMENT,
     time it took to install
 	how good the connection is
 	Dependency for another package
+	location of those filesssss
+	languages
+
+What are the possible types of files?
 
 A search feature where you can put a review about the post installation, maybe just an option you can choose so it will consistent with other apps
 	
 it can also record uninstallation
 time it took to uninstall
 
-location of those filesssss
+
 
 /////
 Hierarchy for dependencies and packages 
