@@ -24,6 +24,6 @@ time it took to uninstall
 
 
 /////
-
+can be integrated with ai for better analysis 
 
 A map of how apps interact with each other, specially libraries.
