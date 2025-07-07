@@ -19,3 +19,10 @@ A search feature where you can put a review about the post installation, maybe j
 	
 it can also record uninstallation
 time it took to uninstall
+
+
+
+/////
+
+
+A map of how apps interact with each other, specially libraries.
