@@ -70,12 +70,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "q.md",
+                "file": "Database design.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "q"
+              "title": "Database design"
             }
           }
         ],
@@ -262,8 +262,8 @@
   },
   "active": "b4aee54c2de81693",
   "lastOpenFiles": [
-    "Database design.md",
     "q.md",
+    "Database design.md",
     "The Kite Runner - 2.md",
     "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "Untitled",

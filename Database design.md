@@ -16,9 +16,10 @@ id INTEGER PRIMARY KEY AUTOINCREMENT,
 	how good the connection is
 	Dependency for another package
 	location of those filesssss
-	languages
+	languages used
 
 What are the possible types of files?
+.config, driver
 
 A search feature where you can put a review about the post installation, maybe just an option you can choose so it will consistent with other apps
 	
