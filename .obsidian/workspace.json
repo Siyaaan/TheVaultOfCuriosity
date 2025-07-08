@@ -155,9 +155,19 @@
               "icon": "lucide-file",
               "title": "Putting my dotfiles on github"
             }
+          },
+          {
+            "id": "5a49691204b4a0d5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -319,10 +329,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "651fd4f08876c644",
+  "active": "5a49691204b4a0d5",
   "lastOpenFiles": [
-    "4-Projects/Database design.md",
     "4-Projects/Putting my dotfiles on github.md",
+    "4-Projects/Database design.md",
     "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "The Kite Runner - 4.md",
     "Kite Runner - 5.md",
@@ -342,7 +352,7 @@
     "1-Fleeting Notes/The feeling of emptiness.md",
     "1-Fleeting Notes/A huge circular hole on a map.md",
     "1-Fleeting Notes/a good randomness.md",
-    "1-Fleeting Notes/2d MMORPG-REMNARA.md",
+    "4-Projects/2d MMORPG-REMNARA.md",
     "1-Fleeting Notes/A leader can talk to the developer.md",
     "1-Fleeting Notes/A voting system in the mmorpg.md",
     "1-Fleeting Notes/Clothing design and branding.md",
