@@ -11,7 +11,7 @@ Pages:
 
 
 **INSIGHTS**
-
+The division is greatly emphasized here
 
 
 
