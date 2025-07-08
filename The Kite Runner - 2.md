@@ -14,7 +14,7 @@ Here, we delve into the usual life of both the children with their own fathers, 
 
 It's interesting to note that both children have fed from the same breast, born on the same place, lived on the same roof, and they even have a strong relationship as well as with their fathers. And yet, their differences on how they were treated by society is so distinct because of how their religious beliefs were.
 
-The story of Ali shows that he formed a very despite the insults, mocking, and discrimination about his race and as a person, 
+The story of Ali shows that he formed a strong sense of barrier against the discrimination. And that despite the insults, mocking about his race or as a person, he still found his happiness when Hassan was born here. He found purity in the middle of the wickedness of his environment. 
 
 
 
