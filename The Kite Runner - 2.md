@@ -7,7 +7,7 @@ Pages:
 **MAIN**
 Wait, it is only natural for them to marry their 1st cousin?
 
-Here, we delve into the usual life of both the children with their own fathers, and learned the backstory starting from their birth. And we finally knew that his name was Amir, the first word which Hassan spoke. Both children don't have their mothers anymore 
+Here, we delve into the usual life of both the children with their own fathers, and learned the backstory starting from their birth. And we finally knew that his name was Amir, the first word which Hassan spoke. Both children don't have their mothers anymore . 
 
 
 **INSIGHTS**
