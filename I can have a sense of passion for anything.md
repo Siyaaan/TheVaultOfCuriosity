@@ -1,0 +1,1 @@
+I think this is my greatest discovery as a young adult. I'm 2nd year college right now and throughout the subjects I took in, there is always this kind of excitement I feel 
