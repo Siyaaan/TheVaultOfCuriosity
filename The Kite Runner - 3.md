@@ -5,7 +5,7 @@ Source: "[[Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.l
 Pages: "3"
 ---
 **MAIN**
-How did amir killed his mother bru
+
 
 
 
@@ -15,7 +15,7 @@ Baba proved the contradicttions wrong
 
 While he has the authority, he only saw black and white, according to amir.
 
-
+He always chases after his father to for a moment, see him.
 
 
 **MORE SOURCES**
