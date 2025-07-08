@@ -1,8 +1,8 @@
 ---
 Date: 2025-07-08
 tags: 
-Source: 
-Pages:
+Source: "[[Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf]]"
+Pages: "3"
 ---
 **MAIN**
 
