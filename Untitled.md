@@ -11,7 +11,7 @@ Pages:
 
 
 **INSIGHTS**
-Baba proved the contradicts wrong
+Baba proved the contradicttions wrong
 
 While he has the authority, he only saw black and white, according to amir.
 

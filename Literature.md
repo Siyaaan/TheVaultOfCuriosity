@@ -7,6 +7,7 @@ Verse:
 Themes:
   - "[[Metaphor]]"
   - "[[story]] ]]"
+  - "[[symbolism]]"
 ---
 **MAIN**
 
