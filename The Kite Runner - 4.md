@@ -12,7 +12,7 @@ Pages:
 
 **INSIGHTS**
 The division is greatly emphasized here
-
+Pomegranate tree symbolizes the friendship of hassan and amir
 
 
 
