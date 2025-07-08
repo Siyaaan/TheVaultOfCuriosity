@@ -19,5 +19,5 @@ He always chases after his father to for a moment, see him.
 
 Pressures and expectations for amir from baba to inherit his interests and passion.
 
-
+A disappointed father bruh
 **MORE SOURCES**
