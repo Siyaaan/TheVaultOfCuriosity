@@ -27,7 +27,7 @@ A search feature where you can put a review about the post installation, maybe j
 it can also record uninstallation
 time it took to uninstall
 
-
+There will also be a code to locate the files on the directory for consistency across devices and users for beginners.
 
 /////
 Hierarchy for dependencies and packages 

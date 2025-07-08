@@ -132,12 +132,14 @@
             "id": "e04c9c8692e01e35",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf"
+                "file": "Database design.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li"
+              "icon": "lucide-file",
+              "title": "Database design"
             }
           }
         ]
