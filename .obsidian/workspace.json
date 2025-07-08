@@ -98,16 +98,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "symbolism]], [[metaphor.md",
+                "file": "Literature.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "symbolism]], [[metaphor"
+              "title": "Literature"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "19af9fca35b1db1e",
@@ -303,12 +303,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "01fc45f358603465",
+  "active": "8b39612b58746ce7",
   "lastOpenFiles": [
-    "I have to be more open minded on the situations of others.md",
     "symbolism]], [[metaphor.md",
-    "Literature.md",
+    "I have to be more open minded on the situations of others.md",
     "Untitled.md",
+    "Literature.md",
     "The Kite Runner - 2.md",
     "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "Database design.md",

@@ -4,7 +4,7 @@ tags:
 Source: 
 AI: 
 Verse: 
-Themes: "[[symbolism]], [[metaphor]]"
+Themes: "[literary devices], [[symbolism]]]"
 ---
 **MAIN**
 
