@@ -160,10 +160,12 @@
             "id": "5a49691204b4a0d5",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "pdf",
+              "state": {
+                "file": "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li"
             }
           }
         ],
