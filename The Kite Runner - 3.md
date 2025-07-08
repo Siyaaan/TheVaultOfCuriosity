@@ -5,7 +5,7 @@ Source: "[[Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.l
 Pages: "3"
 ---
 **MAIN**
-
+How did amir killed his mother bru
 
 
 
