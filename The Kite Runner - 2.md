@@ -16,6 +16,6 @@ It's interesting to note that both children have fed from the same breast, born 
 
 Ali shows that he formed a strong sense of barrier against the discrimination. And that despite the insults, mocking about his ethnicity or as a person, he still found his happiness when Hassan was born here. He found purity in the middle of the wickedness of his environment. 
 
-
+TRYYYY
 
 **MORE SOURCES**
