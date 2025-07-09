@@ -188,12 +188,14 @@
             "id": "5a49691204b4a0d5",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf"
+                "file": "The Kite Runner - 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li"
+              "icon": "lucide-file",
+              "title": "The Kite Runner - 2"
             }
           },
           {
@@ -375,10 +377,10 @@
   },
   "active": "5a49691204b4a0d5",
   "lastOpenFiles": [
+    "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "Neovim Java Compiler.md",
     "4-Projects/make neovim as IDE.md",
     "4-Projects/Putting my dotfiles on github.md",
-    "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "4-Projects/Patching dwm.md",
     "The Kite Runner - 4.md",
     "3-Insight Notes/Unclear progression design.md",
@@ -403,7 +405,6 @@
     "1-Fleeting Notes/A huge circular hole on a map.md",
     "1-Fleeting Notes/a good randomness.md",
     "4-Projects/2d MMORPG-REMNARA.md",
-    "1-Fleeting Notes/A leader can talk to the developer.md",
     "6-Resources/Yaworski, Peter - Real-World Bug Hunting. A Field Guide to Web Hacking (2019, No Starch Press) - libgen.li.pdf",
     "6-Resources/[A Top Down Approach] James F. Kurose - Computer Networking_ A Top-Down Approach, 7th Edition (2020, Pearson) - libgen.li.pdf",
     "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.epub",
