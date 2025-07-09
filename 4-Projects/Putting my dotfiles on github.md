@@ -1,1 +1,2 @@
 the full customization of keybinds, appearance, and tweaks should be seperated to ensure versatility among devices
+
