@@ -1,0 +1,1 @@
+Is there a way in nvim where I open new seperate nvim instead on its terminal where its run
