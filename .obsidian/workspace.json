@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14-Templates/Literature Notes.md",
+                "file": "8-Tags/Tags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Literature Notes"
+              "title": "Tags"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "09b2c8f54bcfab43",
   "lastOpenFiles": [
-    "14-Templates/Conceptual Notes.md",
     "14-Templates/Literature Notes.md",
+    "14-Templates/Conceptual Notes.md",
     "8-Tags/Tags.md",
     "1-Literature Notes/Devotionals/A light for My path.md",
     "1-Literature Notes/The Kite Runner - 1.md",
