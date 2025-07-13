@@ -1,6 +1,7 @@
 ---
 Date: ""
-tags: 
+tags:
+  - Insights
 Links: 
 Themes:
 ---
