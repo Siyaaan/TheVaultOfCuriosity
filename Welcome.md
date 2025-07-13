@@ -56,4 +56,4 @@ Literature notes
 
 7-13-25
 
-Now, I will be making a second version of VaultOfCuriosity where I will fix my mistake of having so much folders which overwhelms me. I thought by having more of those, I would have a better structure and be more organize and I 
+Now, I will be making a second version of VaultOfCuriosity where I will fix my mistake of having so much folders which overwhelms me. I thought by having more of those, I would have a better structure and be more organize but as far as this continues, having to navigate through those files becomes tedious which made me more lazy. So what I'm going to do is reduce the folders to which I think is the most important and I will just categorize and give them structures using tags and indexes. Should have done this earlier but well, a good lesson indeed.
