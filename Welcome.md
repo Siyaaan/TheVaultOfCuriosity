@@ -52,3 +52,8 @@ Literature notes
 -If let's say I got an idea that doesn't have relations to any of my existing notes, how will I keep that in my mind? how will I organize it? hmmm... put a tag that says isolated idea? or make a folder in fleeting notes to hold on to? 
 
 -I finally got the idea of how I will categorize my notes. Next is configuring out colours on my graph knowledge to better differentiate the connectedness of each other. To know if that node is a resources, a concept, an insight, or a project.
+
+
+7-13-25
+
+Now, I will be making a second version of VaultOfCuriosity where I will fix my mistake of having so much folders which overwhelms me. I thought by having more of those, I would have a better structure and be more organize and I 

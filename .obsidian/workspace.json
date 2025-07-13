@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "checkcehck/2025-07-06.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-07-06"
+              "title": "Welcome"
             }
           }
         ],
@@ -247,8 +247,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "651fd4f08876c644",
+  "active": "e43d2aceb64daac7",
   "lastOpenFiles": [
+    "checkcehck/2025-07-06.md",
     "checkcehck/Untitled 2.md",
     "checkcehck",
     "checkcehck/HEHELLHELO.md",
