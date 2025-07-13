@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14-Templates/Permanent Notes.md",
+                "file": "9-Templates/Permanent Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -76,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14-Templates/Literature Notes.md",
+                "file": "9-Templates/Literature Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -90,7 +90,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14-Templates/Permanent Notes.md",
+                "file": "9-Templates/Permanent Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -261,7 +261,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09bfef4277ceeed1",
+  "active": "651fd4f08876c644",
   "lastOpenFiles": [
     "1-Source Notes/A light for My path.md",
     "1-Source Notes/Client and Server.md",
@@ -269,10 +269,10 @@
     "1-Source Notes/HTTP PARAMETER POLLUTION.md",
     "1-Source Notes/Open Redirect Vulnerabilities.md",
     "0 - Rough Notes",
-    "14-Templates/Permanent Notes.md",
+    "9-Templates/Permanent Notes.md",
     "Welcome.md",
     "14-Templates/Conceptual Notes.md",
-    "14-Templates/Literature Notes.md",
+    "9-Templates/Literature Notes.md",
     "8-Tags/Tags.md",
     "1-Permanent Notes/How Elaria would not restrict players.md",
     "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
@@ -280,7 +280,7 @@
     "1-Source Notes/The Kite Runner - 4.md",
     "1-Source Notes/The Kite Runner - 3.md",
     "1-Source Notes/The Kite Runner - 2.md",
-    "14-Templates/LN - Book Review.md",
+    "9-Templates/LN - Book Review.md",
     "We are a byproduct of our environment.md",
     "Neovim Java Compiler.md",
     "q.md",
