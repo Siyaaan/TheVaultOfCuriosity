@@ -1,21 +1,23 @@
 ---
-Date: 2025-07-06
+Date: ""
 tags: 
 Source: "[[Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf]]"
-Pages:
+Pages: 
+AI: 
+Themes:
 ---
-**MAIN**
+# **MAIN**
 Wait, it is only natural for them to marry their 1st cousin?
 
 Here, we delve into the usual life of both the children with their own fathers, and learned the backstory starting from their birth. And we finally knew that his name was Amir, the first word which Hassan spoke. Both children don't have their mothers anymore . 
 
-
-**INSIGHTS**
-
 It's interesting to note that both children have fed from the same breast, born on the same place, lived on the same roof, and they even have a strong relationship as well as with their fathers. And yet, their differences on how they were treated by society is so distinct because of how their ethnicity were.
 
 Ali shows that he formed a strong sense of barrier against the discrimination. And that despite the insults, mocking about his ethnicity or as a person, he still found his happiness when Hassan was born here. He found purity in the middle of the wickedness of his environment. 
+# **EXAMPLES**
 
-TRYYYY
+# **PRACTICE**
 
-**MORE SOURCES**
+# **INSIGHTS**
+
+# **MORE SOURCES**
