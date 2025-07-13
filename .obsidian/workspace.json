@@ -51,55 +51,6 @@
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "b6e27ca66aa8444c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4622f2c2e321347a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9-Templates/Permanent Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Permanent Notes"
-            }
-          },
-          {
-            "id": "b06680f81f98d3ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9-Templates/Literature Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Literature Notes"
-            }
-          },
-          {
-            "id": "3b5f81ac759758e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "9-Templates/Source Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Source Notes"
-            }
-          }
-        ],
-        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "9-Templates/Source Notes.md",
+                "file": "1-Source Notes/Restricting Systems of MMOs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Source Notes"
+              "title": "Backlinks for Restricting Systems of MMOs"
             }
           },
           {
@@ -205,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "9-Templates/Source Notes.md",
+                "file": "1-Source Notes/Restricting Systems of MMOs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Source Notes"
+              "title": "Outgoing links from Restricting Systems of MMOs"
             }
           },
           {
@@ -219,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "9-Templates/Source Notes.md",
+                "file": "1-Source Notes/Restricting Systems of MMOs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Source Notes"
+              "title": "Outline of Restricting Systems of MMOs"
             }
           },
           {
@@ -263,13 +214,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b5f81ac759758e9",
+  "active": "09bfef4277ceeed1",
   "lastOpenFiles": [
+    "Untitled 3.md",
     "1-Source Notes/Restricting Systems of MMOs.md",
     "9-Templates/Source Notes.md",
+    "9-Templates/Permanent Notes.md",
     "9-Templates/Daily Devotional.md",
     "9-Templates/LN - Book Review.md",
-    "9-Templates/Permanent Notes.md",
     "1-Permanent Notes/I can have a sense of passion for anything.md",
     "1-Permanent Notes/Unclear progression design.md",
     "1-Permanent Notes/How Elaria would not restrict players.md",
@@ -292,7 +244,6 @@
     "1-Source Notes/The Kite Runner - 2.md",
     "We are a byproduct of our environment.md",
     "Neovim Java Compiler.md",
-    "q.md",
     "1-Permanent Notes",
     "13-Meta Reflection",
     "11-Daily Notes",
