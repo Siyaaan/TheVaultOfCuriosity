@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "14-Templates/LN - Book Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "LN - Book Review"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "09b2c8f54bcfab43",
   "lastOpenFiles": [
-    "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
+    "1-Literature Notes/HTTP PARAMETER POLLUTION.md",
+    "1-Literature Notes/Client and Server.md",
     "Welcome.md",
+    "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "We are a byproduct of our environment.md",
     "Neovim Java Compiler.md",
     "q.md",
@@ -208,9 +210,7 @@
     "1-Literature Notes/Restricting Systems of MMOs.md",
     "1-Literature Notes/Open Redirect Vulnerabilities.md",
     "1-Literature Notes/Inkarnate.md",
-    "1-Literature Notes/HTTP PARAMETER POLLUTION.md",
     "1-Literature Notes/Devotionals",
-    "1-Literature Notes/Client and Server.md",
     "1-Literature Notes",
     "9-Indexes/System for Articulacy.md",
     "literary devices]] [[symbolism.md",
