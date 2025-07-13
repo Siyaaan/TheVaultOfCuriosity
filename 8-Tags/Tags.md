@@ -1,5 +1,4 @@
-Conceptual
-Insights
+Permanent
 Literature
 	Devotional
 	
