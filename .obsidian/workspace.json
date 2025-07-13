@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8-Tags/Untitled 6.md",
+                "file": "14-Templates/Conceptual Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 6"
+              "title": "Conceptual Notes"
             }
           }
         ]
@@ -183,8 +183,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "651fd4f08876c644",
+  "active": "09b2c8f54bcfab43",
   "lastOpenFiles": [
+    "8-Tags/Untitled 6.md",
     "1-Literature Notes/Devotionals/A light for My path.md",
     "1-Literature Notes/The Kite Runner - 1.md",
     "1-Literature Notes/The Kite Runner - 4.md",
@@ -214,7 +215,6 @@
     "11-Daily Notes/Untitled.md",
     "11-Daily Notes",
     "1-Literature Notes/Restricting Systems of MMOs.md",
-    "1-Literature Notes/Open Redirect Vulnerabilities.md",
     "1-Literature Notes/Devotionals",
     "1-Literature Notes",
     "checkcehck",
