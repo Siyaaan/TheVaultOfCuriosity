@@ -24,6 +24,9 @@ Fleeting notes
 Conceptual Notes
 	This is all about the definition, understand, apply, analyse, and evaluate a concept on a much deeper level.
 
+Update Conceptual Notes 
+	This will only include the core idea of that concepts. 
+
 Insight Notes
 	This is where your own thoughts, ideas, and insights comes in to play where you analyse and evaluate an idea and how they relate to each other, your own goals, and thinking.
 

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Literature Notes/Open Redirect Vulnerabilities.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Open Redirect Vulnerabilities"
+              "title": "Welcome"
             }
           }
         ],
@@ -220,6 +220,7 @@
   },
   "active": "86aaa34eb9e1c873",
   "lastOpenFiles": [
+    "1-Literature Notes/Open Redirect Vulnerabilities.md",
     "8-Tags/Tags.md",
     "1-Literature Notes/HTTP PARAMETER POLLUTION.md",
     "14-Templates/Insight Notes.md",
