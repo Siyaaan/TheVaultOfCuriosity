@@ -1,6 +1,4 @@
 Permanent
+Conceptual
 Literature
-	Conceptual
-	Devotional
-	Review
-	
+
