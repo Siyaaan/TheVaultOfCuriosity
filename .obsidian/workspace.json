@@ -48,12 +48,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14-Templates/Insight Notes.md",
+                "file": "14-Templates/Permanent Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Insight Notes"
+              "title": "Permanent Notes"
             }
           },
           {
@@ -76,12 +76,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "14-Templates/Insight Notes.md",
+                "file": "14-Templates/Permanent Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Insight Notes"
+              "title": "Permanent Notes"
             }
           }
         ],
@@ -247,12 +247,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3b5f81ac759758e9",
+  "active": "86aaa34eb9e1c873",
   "lastOpenFiles": [
+    "14-Templates/Permanent Notes.md",
     "1-Literature Notes/Open Redirect Vulnerabilities.md",
     "Welcome.md",
     "14-Templates/Conceptual Notes.md",
-    "14-Templates/Insight Notes.md",
     "14-Templates/Literature Notes.md",
     "8-Tags/Tags.md",
     "1-Literature Notes/HTTP PARAMETER POLLUTION.md",
