@@ -1,16 +1,8 @@
 ---
 Date: 2025-07-06
-tags: 
+tags:
+  - Conceptual
 Source: 
 AI: 
 Indexes:
 ---
-**MAIN**
-
-**EXAMPLES**
-
-**PRACTICE**
-
-**INSIGHTS**
-
-**MORE SOURCES**
