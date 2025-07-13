@@ -4,39 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "c492c74c9c65ef29",
-        "type": "tabs",
-        "dimension": 41.7189460476788,
-        "children": [
-          {
-            "id": "b088eaabde3a5531",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
         "id": "19af9fca35b1db1e",
         "type": "tabs",
-        "dimension": 58.2810539523212,
         "children": [
-          {
-            "id": "c3713100feacd3b1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li"
-            }
-          },
           {
             "id": "09b2c8f54bcfab43",
             "type": "leaf",
@@ -51,8 +21,7 @@
               "title": "Welcome"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,8 +183,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "651fd4f08876c644",
+  "active": "09b2c8f54bcfab43",
   "lastOpenFiles": [
+    "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
+    "Welcome.md",
+    "We are a byproduct of our environment.md",
+    "Neovim Java Compiler.md",
+    "q.md",
+    "symbolism.md",
+    "Untitled 1.md",
+    "2025-07-06.md",
     "1-Permanent Notes/Untitled 2.md",
     "1-Permanent Notes/Unclear progression design.md",
     "1-Permanent Notes/I can have a sense of passion for anything.md",
@@ -236,20 +213,11 @@
     "1-Literature Notes/Client and Server.md",
     "1-Literature Notes",
     "9-Indexes/System for Articulacy.md",
-    "Welcome.md",
-    "We are a byproduct of our environment.md",
-    "checkcehck/symbolism.md",
-    "checkcehck/q.md",
-    "checkcehck/literary devices]] [[symbolism.md",
-    "checkcehck/Untitled.md",
-    "checkcehck/Untitled 2.md",
-    "checkcehck/Untitled 1.md",
-    "checkcehck/Things that need to reconsider in terms of hardware.md",
-    "checkcehck/The Kite Runner - 4.md",
-    "checkcehck/The Kite Runner - 3.md",
+    "literary devices]] [[symbolism.md",
+    "Untitled.md",
+    "Untitled 2.md",
     "checkcehck",
     "1- Permanent Notes",
-    "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "Untitled",
     "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.pdf",
     "7-Archive/Images/Pasted image 20250628222828.png",
