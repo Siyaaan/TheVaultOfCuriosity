@@ -90,12 +90,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "9-Templates/Permanent Notes.md",
+                "file": "9-Templates/Daily Devotional.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Permanent Notes"
+              "title": "Daily Devotional"
             }
           }
         ],
@@ -186,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Source Notes/Restricting Systems of MMOs.md",
+                "file": "9-Templates/Daily Devotional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +196,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Restricting Systems of MMOs"
+              "title": "Backlinks for Daily Devotional"
             }
           },
           {
@@ -205,12 +205,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Fleeting Notes/2d MMORPG.md",
+                "file": "9-Templates/Daily Devotional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2d MMORPG"
+              "title": "Outgoing links from Daily Devotional"
             }
           },
           {
@@ -219,12 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "9-Templates/Daily Devotional.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Daily Devotional"
             }
           },
           {
@@ -242,11 +243,13 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -260,16 +263,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "09bfef4277ceeed1",
+  "active": "3b5f81ac759758e9",
   "lastOpenFiles": [
-    "1-Permanent Notes/How Elaria would not restrict players.md",
-    "1-Rough Notes/Leader can talk to ai and it will translate what they needs.md",
-    "9-Templates/Permanent Notes.md",
-    "9-Templates/LN - Book Review.md",
     "9-Templates/Literature Notes.md",
     "9-Templates/Daily Devotional.md",
-    "1-Rough Notes/A huge circular hole on a map.md",
+    "9-Templates/LN - Book Review.md",
+    "9-Templates/Permanent Notes.md",
+    "1-Permanent Notes/I can have a sense of passion for anything.md",
+    "1-Permanent Notes/Unclear progression design.md",
     "1-Source Notes/Restricting Systems of MMOs.md",
+    "1-Permanent Notes/How Elaria would not restrict players.md",
+    "1-Rough Notes/Leader can talk to ai and it will translate what they needs.md",
+    "1-Rough Notes/A huge circular hole on a map.md",
     "HEHELLHELO.md",
     "1-Source Notes/A light for My path.md",
     "1-Source Notes/Client and Server.md",
@@ -288,8 +293,6 @@
     "We are a byproduct of our environment.md",
     "Neovim Java Compiler.md",
     "q.md",
-    "symbolism.md",
-    "Untitled 1.md",
     "1-Permanent Notes",
     "13-Meta Reflection",
     "11-Daily Notes",
