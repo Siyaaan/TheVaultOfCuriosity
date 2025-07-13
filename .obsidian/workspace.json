@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Source Notes/The Kite Runner - 4.md",
+                "file": "1-Source Notes/Open Redirect Vulnerabilities.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Kite Runner - 4"
+              "title": "Open Redirect Vulnerabilities"
             }
           }
         ],
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Source Notes/The Kite Runner - 4.md",
+                "file": "1-Source Notes/Open Redirect Vulnerabilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Kite Runner - 4"
+              "title": "Backlinks for Open Redirect Vulnerabilities"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Source Notes/The Kite Runner - 4.md",
+                "file": "1-Source Notes/Open Redirect Vulnerabilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Kite Runner - 4"
+              "title": "Outgoing links from Open Redirect Vulnerabilities"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Source Notes/The Kite Runner - 4.md",
+                "file": "1-Source Notes/Open Redirect Vulnerabilities.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Kite Runner - 4"
+              "title": "Outline of Open Redirect Vulnerabilities"
             }
           },
           {
@@ -216,13 +216,13 @@
   },
   "active": "09bfef4277ceeed1",
   "lastOpenFiles": [
+    "1-Source Notes/Restricting Systems of MMOs.md",
+    "1-Source Notes/The Kite Runner - 4.md",
     "Amir's feeling of inferiority comes from how his father treated him..md",
     "2025-07-13.md",
-    "1-Source Notes/The Kite Runner - 4.md",
     "1-Source Notes/The Kite Runner - 3.md",
     "1-Source Notes/The Kite Runner - 2.md",
     "Untitled 4.md",
-    "1-Source Notes/Restricting Systems of MMOs.md",
     "Untitled 3.md",
     "9-Templates/Source Notes.md",
     "9-Templates/Permanent Notes.md",
