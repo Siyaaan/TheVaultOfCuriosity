@@ -1,5 +1,5 @@
 ---
-Date: "{{date}}"
+Date: 
 tags: 
 Source: 
 Verse: 
