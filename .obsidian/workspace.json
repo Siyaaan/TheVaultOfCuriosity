@@ -6,7 +6,7 @@
       {
         "id": "a9a85b446e4072f4",
         "type": "tabs",
-        "dimension": 45.30416221985058,
+        "dimension": 45.30416221985059,
         "children": [
           {
             "id": "35396fa2eaa1e9d1",
@@ -27,7 +27,7 @@
       {
         "id": "19af9fca35b1db1e",
         "type": "tabs",
-        "dimension": 54.69583778014942,
+        "dimension": 54.69583778014941,
         "children": [
           {
             "id": "09bfef4277ceeed1",
@@ -206,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35396fa2eaa1e9d1",
+  "active": "09bfef4277ceeed1",
   "lastOpenFiles": [
     "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "The Kite Runner - 6.md",
