@@ -4,41 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a9a85b446e4072f4",
-        "type": "tabs",
-        "dimension": 45.30416221985059,
-        "children": [
-          {
-            "id": "35396fa2eaa1e9d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Kite Runner - 6.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Kite Runner - 6"
-            }
-          }
-        ]
-      },
-      {
         "id": "19af9fca35b1db1e",
         "type": "tabs",
-        "dimension": 54.69583778014941,
         "children": [
           {
             "id": "09bfef4277ceeed1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -73,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "lua",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,12 +84,12 @@
               "title": "I quit WoW and spent a year addicted to Oldschool Runescape"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "right": {
     "id": "b3ad112b69fb1540",
