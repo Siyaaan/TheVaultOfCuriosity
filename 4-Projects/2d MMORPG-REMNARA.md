@@ -41,6 +41,8 @@ In a starting game, players are then given a single path where they would walk f
 
 **WORLDBUILDING**
 [[engineer a permanent place in the world]]
+[[A huge circular hole on a map]]
 
 **FEATURES**
 [[A voting system in the mmorpg]]
+[[How Elaria would not restrict players]]
