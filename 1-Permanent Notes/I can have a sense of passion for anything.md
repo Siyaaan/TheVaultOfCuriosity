@@ -1,1 +1,8 @@
+---
+Date: 2025-07-20
+tags:
+  - insights
+Index:
+  - "[[Passion]]"
+---
 I think this is my greatest discovery as a young adult. I'm 2nd year college right now and throughout the subjects I took in, there is always this kind of excitement I feel to learn things I have no knowledge about. Those particular subjects are technology, accountancy, literature, ai, math, and I also wish to explore chemistry and the medical field once I finished setting up my system for learning and if I have available time. Though I admit I don't learn as fast as those people, I believe with enough time and thinking, my brain would be able to adapt  
