@@ -1,5 +1,6 @@
 {
   "cssTheme": "Typewriter",
   "theme": "obsidian",
-  "accentColor": ""
+  "accentColor": "",
+  "showRibbon": false
 }

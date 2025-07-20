@@ -1,1 +1,0 @@
-Always give enough detail like you are teaching a concept to someone on your notes.
