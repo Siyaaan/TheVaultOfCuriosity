@@ -3,7 +3,6 @@ Date: 2025-07-20
 tags:
   - Conceptual
 Index:
-  - "[[Fantasy]]"
   - "[[World Building]]"
 ---
 ![[Pasted image 20250628222828.png]]
