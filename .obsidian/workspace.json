@@ -11,10 +11,14 @@
             "id": "09bfef4277ceeed1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1-Rough Notes/A huge circular hole on a map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "A huge circular hole on a map"
             }
           },
           {
@@ -197,10 +201,11 @@
   },
   "active": "09bfef4277ceeed1",
   "lastOpenFiles": [
-    "5-Indexes/System for Articulacy.md",
-    "5-Indexes/Fantasy.md",
+    "Fantasy]].md",
     "1-Rough Notes/A huge circular hole on a map.md",
     "1-Rough Notes/a good randomness.md",
+    "5-Indexes/System for Articulacy.md",
+    "5-Indexes/Fantasy.md",
     "Qoutes.md",
     "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "The Kite Runner - 6.md",
@@ -224,7 +229,6 @@
     "1-Permanent Notes/How Elaria would not restrict players.md",
     "1-Rough Notes/Leader can talk to ai and it will translate what they needs.md",
     "HEHELLHELO.md",
-    "1-Source Notes/A light for My path.md",
     "0 - Rough Notes",
     "1-Permanent Notes",
     "13-Meta Reflection",
