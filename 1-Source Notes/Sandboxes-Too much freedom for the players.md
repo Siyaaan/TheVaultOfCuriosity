@@ -1,20 +1,12 @@
 ---
 Date: ""
 tags: 
-Source: 
+Source: "[[I quit WoW and spent a year addicted to Oldschool Runescape]]"
 AI: 
 Themes:
 ---
 
-# **MAIN**
-
-# **EXAMPLES**
-
-# **PRACTICE**
-
-# **INSIGHTS**
-
-# **MORE SOURCES**
+# Main
 
 sandbox MMOs are by and
 
@@ -29,4 +21,14 @@ content and that freedom is often terrifying it's mystifying it makes a
 4:20
 
 cryptic puzzle out of a game that pushes those looking to Simply unwind away
+
+
+
+# **EXAMPLES**
+
+# **PRACTICE**
+
+# **INSIGHTS**
+
+# **MORE SOURCES**
 
