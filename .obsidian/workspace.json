@@ -11,14 +11,12 @@
             "id": "09bfef4277ceeed1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1-Permanent Notes/Making a legacy for cheaters.md",
-                "mode": "source",
-                "source": false
+                "file": "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Making a legacy for cheaters"
+              "icon": "lucide-file-text",
+              "title": "Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li"
             }
           },
           {
@@ -209,8 +207,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "651fd4f08876c644",
+  "active": "09bfef4277ceeed1",
   "lastOpenFiles": [
+    "1-Permanent Notes/Making a legacy for cheaters.md",
     "1-Rough Notes/Memorizing vs Reasoning.md",
     "1-Rough Notes/Mixing 2d and 3d depending on the scenario.md",
     "1-Rough Notes/Punishable way to learn.md",
@@ -236,7 +235,6 @@
     "1-Source Notes/Open Redirect Vulnerabilities.md",
     "1-Source Notes/Kite Runner - 5.md",
     "1-Source Notes/The Kite Runner - 6.md",
-    "symbolism.md",
     "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "1-Source Notes/Roberto Ierusalimschy - Programming in Lua, Fourth Edition (2016, Lua.org) - libgen.li.pdf",
     "0 - Rough Notes",
