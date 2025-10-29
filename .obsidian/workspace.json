@@ -30,6 +30,28 @@
               "icon": "excalidraw-icon",
               "title": "MINDMAP"
             }
+          },
+          {
+            "id": "6af28667d1fbdb5c",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "10-Mind Map/test.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "test"
+            }
+          },
+          {
+            "id": "9f612f42d760f3b5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
         "currentTab": 1
@@ -64,12 +86,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "test",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -119,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Kite Runner - 2.md",
+                "file": "10-Mind Map/MINDMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Kite Runner - 2"
+              "title": "Backlinks for MINDMAP"
             }
           },
           {
@@ -179,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,7 +218,12 @@
   },
   "active": "09b2c8f54bcfab43",
   "lastOpenFiles": [
+    "10-Mind Map/test.md",
     "10-Mind Map/MINDMAP.md",
+    "12-Literature Notes/Open Redirect Vulnerabilities.md",
+    "Excalidraw",
+    "Untitled 2.md",
+    "q.md",
     "Things that need to reconsider in terms of hardware.md",
     "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "3-Insight Notes/Unclear progression design.md",
@@ -218,21 +244,16 @@
     "symbolism.md",
     "literary devices]] [[symbolism.md",
     "I have to be more open minded on the situations of others.md",
-    "q.md",
     "Untitled",
     "The Kite Runner - 1.md",
     "14-Templates/LN - Book Review.md",
-    "1-Fleeting Notes/The Feeling of Mysteriousness.md",
-    "Untitled 1.md",
     "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.pdf",
-    "1-Fleeting Notes/The feeling of emptiness.md",
     "6-Resources/Yaworski, Peter - Real-World Bug Hunting. A Field Guide to Web Hacking (2019, No Starch Press) - libgen.li.pdf",
     "6-Resources/[A Top Down Approach] James F. Kurose - Computer Networking_ A Top-Down Approach, 7th Edition (2020, Pearson) - libgen.li.pdf",
     "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.epub",
     "6-Resources/Carmine Gallo - Talk Like TED_ The 9 Public-Speaking Secrets of the World's Top Minds (2014, St. Martin's Press) - libgen.li.pdf",
     "6-Resources/Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Cliffo - Introduction to algorithms (2001, The MIT Press) - libgen.li.pdf",
     "6-Resources/S.R.Jena_CiscoPacketTracerImplementation2.pdf",
-    "6-Resources/Ellen G. White - The Faith I Live By (2010) - libgen.li.pdf",
     "7-Archive/Images/Pasted image 20250628222828.png",
     "7-Archive/Images/Pasted image 20250623155750.png",
     "7-Archive/Images/Pasted image 20250623155707.png",
