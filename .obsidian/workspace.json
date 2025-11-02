@@ -59,14 +59,12 @@
             "id": "11fec46a6e07917e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "12-Literature Notes/Inkarnate.md",
-                "mode": "source",
-                "source": false
+                "file": "6-Resources/Sönke Ahrens - How to Take Smart Notes_ One Simple Technique to Boost Writing, Learning and Thinking (2022, Sönke Ahrens) - libgen.li.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Inkarnate"
+              "icon": "lucide-file-text",
+              "title": "Sönke Ahrens - How to Take Smart Notes_ One Simple Technique to Boost Writing, Learning and Thinking (2022, Sönke Ahrens) - libgen.li"
             }
           },
           {
@@ -179,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "12-Literature Notes/Inkarnate.md",
+                "file": "6-Resources/Sönke Ahrens - How to Take Smart Notes_ One Simple Technique to Boost Writing, Learning and Thinking (2022, Sönke Ahrens) - libgen.li.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Inkarnate"
+              "title": "Backlinks for Sönke Ahrens - How to Take Smart Notes_ One Simple Technique to Boost Writing, Learning and Thinking (2022, Sönke Ahrens) - libgen.li"
             }
           },
           {
@@ -256,9 +254,13 @@
   },
   "active": "11fec46a6e07917e",
   "lastOpenFiles": [
+    "6-Resources/I quit WoW and spent a year addicted to Oldschool Runescape.md",
+    "12-Literature Notes/HTTP PARAMETER POLLUTION.md",
     "10-Mind Map/MINDMAP.md",
-    "The Kite Runner - 1.md",
     "10-Mind Map/Neovim Java Compiler.md",
+    "5-Areas/Articulacy/System for Articulacy.md",
+    "12-Literature Notes/Inkarnate.md",
+    "The Kite Runner - 1.md",
     "Welcome.md",
     "10-Mind Map/test.md",
     "Untitled.base",
@@ -268,9 +270,7 @@
     "9-Indexes/The Word and Works of God.md",
     "3-Insight Notes/How Elaria would not restrict players.md",
     "3-Insight Notes/I can have a sense of passion for anything.md",
-    "12-Literature Notes/Inkarnate.md",
     "12-Literature Notes/Client and Server.md",
-    "12-Literature Notes/HTTP PARAMETER POLLUTION.md",
     "12-Literature Notes/Open Redirect Vulnerabilities.md",
     "Excalidraw",
     "Untitled 2.md",
@@ -283,8 +283,6 @@
     "4-Projects/Putting my dotfiles on github.md",
     "Neovim Java Compiler.md",
     "4-Projects/make neovim as IDE.md",
-    "4-Projects/Patching dwm.md",
-    "The Kite Runner - 4.md",
     "Untitled",
     "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.pdf",
     "6-Resources/Yaworski, Peter - Real-World Bug Hunting. A Field Guide to Web Hacking (2019, No Starch Press) - libgen.li.pdf",
