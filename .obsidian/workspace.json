@@ -47,13 +47,24 @@
             "id": "4a601c5b15ffc2aa",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "excalidraw",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "10-Mind Map/MINDMAP.md"
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "excalidraw-icon",
+              "title": "MINDMAP"
+            }
+          },
+          {
+            "id": "11fec46a6e07917e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "10-Mind Map/MINDMAP.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "MINDMAP"
             }
           },
           {
@@ -79,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.base",
+                "file": "10-Mind Map/MINDMAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for MINDMAP"
             }
           },
           {
@@ -241,10 +252,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a601c5b15ffc2aa",
+  "active": "11fec46a6e07917e",
   "lastOpenFiles": [
-    "We are a byproduct of our environment.md",
+    "10-Mind Map/Neovim Java Compiler.md",
+    "10-Mind Map/MINDMAP.md",
+    "Welcome.md",
+    "10-Mind Map/test.md",
     "Untitled.base",
+    "We are a byproduct of our environment.md",
     "The Kite Runner - 3.md",
     "12-Literature Notes/Devotionals/A light for My path.md",
     "9-Indexes/The Word and Works of God.md",
@@ -253,10 +268,6 @@
     "12-Literature Notes/Inkarnate.md",
     "12-Literature Notes/Client and Server.md",
     "12-Literature Notes/HTTP PARAMETER POLLUTION.md",
-    "10-Mind Map/Neovim Java Compiler.md",
-    "10-Mind Map/MINDMAP.md",
-    "10-Mind Map/test.md",
-    "Welcome.md",
     "12-Literature Notes/Open Redirect Vulnerabilities.md",
     "Excalidraw",
     "Untitled 2.md",
