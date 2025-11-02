@@ -59,12 +59,14 @@
             "id": "11fec46a6e07917e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "10-Mind Map/MINDMAP.md"
+                "file": "The Kite Runner - 1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MINDMAP"
+              "icon": "lucide-file",
+              "title": "The Kite Runner - 1"
             }
           },
           {
@@ -177,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-Mind Map/MINDMAP.md",
+                "file": "The Kite Runner - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for MINDMAP"
+              "title": "Backlinks for The Kite Runner - 1"
             }
           },
           {
@@ -254,8 +256,8 @@
   },
   "active": "11fec46a6e07917e",
   "lastOpenFiles": [
-    "10-Mind Map/Neovim Java Compiler.md",
     "10-Mind Map/MINDMAP.md",
+    "10-Mind Map/Neovim Java Compiler.md",
     "Welcome.md",
     "10-Mind Map/test.md",
     "Untitled.base",
