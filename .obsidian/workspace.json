@@ -61,12 +61,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Kite Runner - 1.md",
+                "file": "12-Literature Notes/Inkarnate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Kite Runner - 1"
+              "title": "Inkarnate"
             }
           },
           {
@@ -179,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Kite Runner - 1.md",
+                "file": "12-Literature Notes/Inkarnate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Kite Runner - 1"
+              "title": "Backlinks for Inkarnate"
             }
           },
           {
@@ -257,6 +257,7 @@
   "active": "11fec46a6e07917e",
   "lastOpenFiles": [
     "10-Mind Map/MINDMAP.md",
+    "The Kite Runner - 1.md",
     "10-Mind Map/Neovim Java Compiler.md",
     "Welcome.md",
     "10-Mind Map/test.md",
