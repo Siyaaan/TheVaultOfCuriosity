@@ -97,12 +97,12 @@
             "id": "3b409e497e31f386",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "10-Mind Map/VirtualAssistant.md"
+                "file": "6-Resources/S.R.Jena_CiscoPacketTracerImplementation2.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "VirtualAssistant"
+              "icon": "lucide-file-text",
+              "title": "S.R.Jena_CiscoPacketTracerImplementation2"
             }
           },
           {
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-Mind Map/VirtualAssistant.md",
+                "file": "6-Resources/S.R.Jena_CiscoPacketTracerImplementation2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +249,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for VirtualAssistant"
+              "title": "Backlinks for S.R.Jena_CiscoPacketTracerImplementation2"
             }
           },
           {
@@ -316,6 +316,8 @@
   },
   "active": "3b409e497e31f386",
   "lastOpenFiles": [
+    "6-Resources/Carmine Gallo - Talk Like TED_ The 9 Public-Speaking Secrets of the World's Top Minds (2014, St. Martin's Press) - libgen.li.pdf",
+    "6-Resources/CK-12 Chemistry for High School.md",
     "10-Mind Map/VirtualAssistant.md",
     "10-Mind Map/Portfolio.md",
     "10-Mind Map/test.md",
@@ -344,14 +346,11 @@
     "q.md",
     "Things that need to reconsider in terms of hardware.md",
     "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
-    "3-Insight Notes/Unclear progression design.md",
-    "Untitled.md",
     "Untitled",
     "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.pdf",
     "6-Resources/Yaworski, Peter - Real-World Bug Hunting. A Field Guide to Web Hacking (2019, No Starch Press) - libgen.li.pdf",
     "6-Resources/[A Top Down Approach] James F. Kurose - Computer Networking_ A Top-Down Approach, 7th Edition (2020, Pearson) - libgen.li.pdf",
     "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.epub",
-    "6-Resources/Carmine Gallo - Talk Like TED_ The 9 Public-Speaking Secrets of the World's Top Minds (2014, St. Martin's Press) - libgen.li.pdf",
     "7-Archive/Images/Pasted image 20250628222828.png",
     "7-Archive/Images/Pasted image 20250623155750.png",
     "7-Archive/Images/Pasted image 20250623155707.png",
