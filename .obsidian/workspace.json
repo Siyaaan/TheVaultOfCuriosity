@@ -106,12 +106,12 @@
             }
           },
           {
-            "id": "c5c156ec95c53e12",
+            "id": "0e3fd056f3a146e7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Portfolio.md"
+                "file": "10-Mind Map/Portfolio.md"
               },
               "icon": "excalidraw-icon",
               "title": "Portfolio"
@@ -123,10 +123,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Portfolio.restored.md"
+                "file": "10-Mind Map/VirtualAssistant.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Portfolio.restored"
+              "title": "VirtualAssistant"
             }
           },
           {
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -239,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Portfolio.restored.md",
+                "file": "10-Mind Map/VirtualAssistant.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +249,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Portfolio.restored"
+              "title": "Backlinks for VirtualAssistant"
             }
           },
           {
@@ -314,14 +314,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6e71149e7fc4274b",
+  "active": "3b409e497e31f386",
   "lastOpenFiles": [
-    "Excalidraw/Portfolio.md",
-    "Excalidraw/Portfolio.restored.md",
     "10-Mind Map/VirtualAssistant.md",
+    "10-Mind Map/Portfolio.md",
     "10-Mind Map/test.md",
-    "10-Mind Map/Neovim Java Compiler.md",
+    "Excalidraw/Portfolio.md",
     "10-Mind Map/MINDMAP.md",
+    "10-Mind Map/Neovim Java Compiler.md",
     "Classification of nodes and lines on a mindmap.md",
     "12-Literature Notes/Open Redirect Vulnerabilities.md",
     "12-Literature Notes/HTTP PARAMETER POLLUTION.md",
