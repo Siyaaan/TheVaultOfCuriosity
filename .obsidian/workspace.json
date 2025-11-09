@@ -73,14 +73,24 @@
             "id": "d5e3e9bea085b804",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Classification of nodes and lines on a mindmap.md",
-                "mode": "source",
-                "source": false
+                "file": "10-Mind Map/test.md"
               },
-              "icon": "lucide-file",
-              "title": "Classification of nodes and lines on a mindmap"
+              "icon": "excalidraw-icon",
+              "title": "test"
+            }
+          },
+          {
+            "id": "3097b907e66a13ec",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-11-09 09.12.40.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-11-09 09.12.40.excalidraw"
             }
           },
           {
@@ -106,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -193,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classification of nodes and lines on a mindmap.md",
+                "file": "Excalidraw/Drawing 2025-11-09 09.12.40.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -203,7 +213,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Classification of nodes and lines on a mindmap"
+              "title": "Backlinks for Drawing 2025-11-09 09.12.40.excalidraw"
             }
           },
           {
@@ -268,20 +278,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d5e3e9bea085b804",
+  "active": "3097b907e66a13ec",
   "lastOpenFiles": [
-    "12-Literature Notes/Open Redirect Vulnerabilities.md",
+    "10-Mind Map/test.md",
+    "Excalidraw/Drawing 2025-11-09 09.12.40.excalidraw.md",
+    "10-Mind Map/Neovim Java Compiler.md",
+    "10-Mind Map/MINDMAP.md",
     "Classification of nodes and lines on a mindmap.md",
+    "12-Literature Notes/Open Redirect Vulnerabilities.md",
     "12-Literature Notes/HTTP PARAMETER POLLUTION.md",
     "6-Resources/Sönke Ahrens - How to Take Smart Notes_ One Simple Technique to Boost Writing, Learning and Thinking (2022, Sönke Ahrens) - libgen.li.pdf",
     "6-Resources/I quit WoW and spent a year addicted to Oldschool Runescape.md",
-    "10-Mind Map/MINDMAP.md",
-    "10-Mind Map/Neovim Java Compiler.md",
     "5-Areas/Articulacy/System for Articulacy.md",
     "12-Literature Notes/Inkarnate.md",
     "The Kite Runner - 1.md",
     "Welcome.md",
-    "10-Mind Map/test.md",
     "Untitled.base",
     "We are a byproduct of our environment.md",
     "The Kite Runner - 3.md",
@@ -299,7 +310,6 @@
     "Untitled.md",
     "The Kite Runner - 2.md",
     "4-Projects/Putting my dotfiles on github.md",
-    "Neovim Java Compiler.md",
     "Untitled",
     "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.pdf",
     "6-Resources/Yaworski, Peter - Real-World Bug Hunting. A Field Guide to Web Hacking (2019, No Starch Press) - libgen.li.pdf",
