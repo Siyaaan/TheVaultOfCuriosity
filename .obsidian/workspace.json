@@ -87,10 +87,46 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2025-11-09 09.12.40.excalidraw.md"
+                "file": "10-Mind Map/VirtualAssistant.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-11-09 09.12.40.excalidraw"
+              "title": "VirtualAssistant"
+            }
+          },
+          {
+            "id": "3b409e497e31f386",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "10-Mind Map/VirtualAssistant.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "VirtualAssistant"
+            }
+          },
+          {
+            "id": "c5c156ec95c53e12",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Portfolio.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Portfolio"
+            }
+          },
+          {
+            "id": "6e71149e7fc4274b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Portfolio.restored.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Portfolio.restored"
             }
           },
           {
@@ -116,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -203,7 +239,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2025-11-09 09.12.40.excalidraw.md",
+                "file": "Excalidraw/Portfolio.restored.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +249,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-11-09 09.12.40.excalidraw"
+              "title": "Backlinks for Portfolio.restored"
             }
           },
           {
@@ -278,10 +314,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3097b907e66a13ec",
+  "active": "6e71149e7fc4274b",
   "lastOpenFiles": [
+    "Excalidraw/Portfolio.md",
+    "Excalidraw/Portfolio.restored.md",
+    "10-Mind Map/VirtualAssistant.md",
     "10-Mind Map/test.md",
-    "Excalidraw/Drawing 2025-11-09 09.12.40.excalidraw.md",
     "10-Mind Map/Neovim Java Compiler.md",
     "10-Mind Map/MINDMAP.md",
     "Classification of nodes and lines on a mindmap.md",
@@ -308,8 +346,6 @@
     "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "3-Insight Notes/Unclear progression design.md",
     "Untitled.md",
-    "The Kite Runner - 2.md",
-    "4-Projects/Putting my dotfiles on github.md",
     "Untitled",
     "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.pdf",
     "6-Resources/Yaworski, Peter - Real-World Bug Hunting. A Field Guide to Web Hacking (2019, No Starch Press) - libgen.li.pdf",
