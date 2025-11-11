@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Fleeting Notes/Clothing design and branding.md",
+                "file": "1-Fleeting Notes/A leader can talk to the developer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clothing design and branding"
+              "title": "A leader can talk to the developer"
             }
           },
           {
@@ -267,7 +267,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Fleeting Notes/Clothing design and branding.md",
+                "file": "1-Fleeting Notes/A leader can talk to the developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +277,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Clothing design and branding"
+              "title": "Backlinks for A leader can talk to the developer"
             }
           },
           {
@@ -342,8 +342,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bcf312168fe77bbc",
+  "active": "651fd4f08876c644",
   "lastOpenFiles": [
+    "1-Fleeting Notes/A huge circular hole on a map.md",
+    "1-Fleeting Notes/A systematic approach to gathering information.md",
+    "1-Fleeting Notes/A voting system in the mmorpg.md",
+    "1-Fleeting Notes/ai driven expression.md",
+    "1-Fleeting Notes/Clothing design and branding.md",
     "1-Fleeting Notes/Dig that concept on a deeper level.md",
     "1-Fleeting Notes/Incorporating Bloom's taxonomy with ai and implementing it on LMS.md",
     "1-Fleeting Notes/Ideas can be dangerous.md",
@@ -365,11 +370,6 @@
     "2-Conceptual Notes/Untitled 1.md",
     "3-Insight Notes/How Elaria would not restrict players.md",
     "3-Insight Notes/I can have a sense of passion for anything.md",
-    "3-Insight Notes/Unclear progression design.md",
-    "3-Insight Notes/Untitled 2.md",
-    "4-Projects/Database design.md",
-    "4-Projects/make neovim as IDE.md",
-    "4-Projects/Patching dwm.md",
     "Untitled.base",
     "6-Resources/[publications] Linus Pauling - General Chemistry (1988, Dover) - libgen.li.pdf",
     "6-Resources/Carmine Gallo - Talk Like TED_ The 9 Public-Speaking Secrets of the World's Top Minds (2014, St. Martin's Press) - libgen.li.pdf",
