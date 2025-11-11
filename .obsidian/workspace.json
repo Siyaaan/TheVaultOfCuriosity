@@ -97,12 +97,14 @@
             "id": "3b409e497e31f386",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "6-Resources/S.R.Jena_CiscoPacketTracerImplementation2.pdf"
+                "file": "3-Insight Notes/Unclear progression design.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "S.R.Jena_CiscoPacketTracerImplementation2"
+              "icon": "lucide-file",
+              "title": "Unclear progression design"
             }
           },
           {
@@ -239,7 +241,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-Resources/S.R.Jena_CiscoPacketTracerImplementation2.pdf",
+                "file": "3-Insight Notes/Unclear progression design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -249,7 +251,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for S.R.Jena_CiscoPacketTracerImplementation2"
+              "title": "Backlinks for Unclear progression design"
             }
           },
           {
@@ -316,7 +318,12 @@
   },
   "active": "3b409e497e31f386",
   "lastOpenFiles": [
+    "3-Insight Notes/I can have a sense of passion for anything.md",
+    "3-Insight Notes/How Elaria would not restrict players.md",
+    "6-Resources/[publications] Linus Pauling - General Chemistry (1988, Dover) - libgen.li.pdf",
     "6-Resources/Carmine Gallo - Talk Like TED_ The 9 Public-Speaking Secrets of the World's Top Minds (2014, St. Martin's Press) - libgen.li.pdf",
+    "6-Resources/Yaworski, Peter - Real-World Bug Hunting. A Field Guide to Web Hacking (2019, No Starch Press) - libgen.li.pdf",
+    "6-Resources/S.R.Jena_CiscoPacketTracerImplementation2.pdf",
     "6-Resources/CK-12 Chemistry for High School.md",
     "10-Mind Map/VirtualAssistant.md",
     "10-Mind Map/Portfolio.md",
@@ -338,8 +345,6 @@
     "The Kite Runner - 3.md",
     "12-Literature Notes/Devotionals/A light for My path.md",
     "9-Indexes/The Word and Works of God.md",
-    "3-Insight Notes/How Elaria would not restrict players.md",
-    "3-Insight Notes/I can have a sense of passion for anything.md",
     "12-Literature Notes/Client and Server.md",
     "Excalidraw",
     "Untitled 2.md",
@@ -348,9 +353,6 @@
     "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "Untitled",
     "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.pdf",
-    "6-Resources/Yaworski, Peter - Real-World Bug Hunting. A Field Guide to Web Hacking (2019, No Starch Press) - libgen.li.pdf",
-    "6-Resources/[A Top Down Approach] James F. Kurose - Computer Networking_ A Top-Down Approach, 7th Edition (2020, Pearson) - libgen.li.pdf",
-    "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.epub",
     "7-Archive/Images/Pasted image 20250628222828.png",
     "7-Archive/Images/Pasted image 20250623155750.png",
     "7-Archive/Images/Pasted image 20250623155707.png",
