@@ -109,12 +109,14 @@
             "id": "15b4f76877704162",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "10-Mind Map/VirtualAssistant.md"
+                "file": "3-Insight Notes/Unclear progression design.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "VirtualAssistant"
+              "icon": "lucide-file",
+              "title": "Unclear progression design"
             }
           },
           {
@@ -251,7 +253,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-Mind Map/VirtualAssistant.md",
+                "file": "3-Insight Notes/Unclear progression design.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -261,7 +263,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for VirtualAssistant"
+              "title": "Backlinks for Unclear progression design"
             }
           },
           {
@@ -328,11 +330,18 @@
   },
   "active": "15b4f76877704162",
   "lastOpenFiles": [
-    "10-Mind Map/Portfolio.md",
-    "10-Mind Map/VirtualAssistant.md",
-    "3-Insight Notes/Unclear progression design.md",
     "3-Insight Notes/I can have a sense of passion for anything.md",
     "3-Insight Notes/How Elaria would not restrict players.md",
+    "We are a byproduct of our environment.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "Untitled.base",
+    "The Kite Runner - 4.md",
+    "Things that need to reconsider in terms of hardware.md",
+    "The Kite Runner - 3.md",
+    "10-Mind Map/VirtualAssistant.md",
+    "10-Mind Map/Portfolio.md",
+    "3-Insight Notes/Unclear progression design.md",
     "6-Resources/[publications] Linus Pauling - General Chemistry (1988, Dover) - libgen.li.pdf",
     "6-Resources/Carmine Gallo - Talk Like TED_ The 9 Public-Speaking Secrets of the World's Top Minds (2014, St. Martin's Press) - libgen.li.pdf",
     "6-Resources/Yaworski, Peter - Real-World Bug Hunting. A Field Guide to Web Hacking (2019, No Starch Press) - libgen.li.pdf",
@@ -351,16 +360,9 @@
     "12-Literature Notes/Inkarnate.md",
     "The Kite Runner - 1.md",
     "Welcome.md",
-    "Untitled.base",
-    "We are a byproduct of our environment.md",
-    "The Kite Runner - 3.md",
     "12-Literature Notes/Devotionals/A light for My path.md",
     "9-Indexes/The Word and Works of God.md",
-    "12-Literature Notes/Client and Server.md",
     "Excalidraw",
-    "Untitled 2.md",
-    "q.md",
-    "Things that need to reconsider in terms of hardware.md",
     "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "Untitled",
     "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.pdf",
