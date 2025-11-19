@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3713100feacd3b1",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li"
-            }
-          },
-          {
             "id": "09b2c8f54bcfab43",
             "type": "leaf",
             "state": {
@@ -123,14 +111,12 @@
             "id": "bcf312168fe77bbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1-Fleeting Notes/A leader can talk to the developer.md",
-                "mode": "source",
-                "source": false
+                "file": "10-Mind Map/VirtualAssistant.md"
               },
-              "icon": "lucide-file",
-              "title": "A leader can talk to the developer"
+              "icon": "excalidraw-icon",
+              "title": "VirtualAssistant"
             }
           },
           {
@@ -179,8 +165,7 @@
               "title": "New tab"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,7 +252,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Fleeting Notes/A leader can talk to the developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +261,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for A leader can talk to the developer"
+              "title": "Backlinks"
             }
           },
           {
@@ -342,8 +326,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "651fd4f08876c644",
+  "active": "eff28fe8e423e61a",
   "lastOpenFiles": [
+    "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
+    "10-Mind Map/VirtualAssistant.md",
+    "1-Fleeting Notes/A leader can talk to the developer.md",
     "1-Fleeting Notes/A huge circular hole on a map.md",
     "1-Fleeting Notes/A systematic approach to gathering information.md",
     "1-Fleeting Notes/A voting system in the mmorpg.md",
@@ -367,9 +354,6 @@
     "1-Fleeting Notes/Re voting of the leader.md",
     "1-Fleeting Notes/Punishable way to learn.md",
     "1-Fleeting Notes/Memorizing vs Reasoning.md",
-    "2-Conceptual Notes/Untitled 1.md",
-    "3-Insight Notes/How Elaria would not restrict players.md",
-    "3-Insight Notes/I can have a sense of passion for anything.md",
     "Untitled.base",
     "6-Resources/[publications] Linus Pauling - General Chemistry (1988, Dover) - libgen.li.pdf",
     "6-Resources/Carmine Gallo - Talk Like TED_ The 9 Public-Speaking Secrets of the World's Top Minds (2014, St. Martin's Press) - libgen.li.pdf",
@@ -377,7 +361,6 @@
     "6-Resources/S.R.Jena_CiscoPacketTracerImplementation2.pdf",
     "6-Resources/Sönke Ahrens - How to Take Smart Notes_ One Simple Technique to Boost Writing, Learning and Thinking (2022, Sönke Ahrens) - libgen.li.pdf",
     "Excalidraw",
-    "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "Untitled",
     "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.pdf",
     "7-Archive/Images/Pasted image 20250628222828.png",
