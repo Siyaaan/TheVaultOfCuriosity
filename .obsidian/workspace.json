@@ -11,12 +11,12 @@
             "id": "c3e52ae3166899b8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "pdf",
               "state": {
-                "file": "10-Mind Map/VirtualAssistant.md"
+                "file": "6-Resources/Richard E. Jones - Human Reproductive Biology, Third Edition (2006, Academic Press) - libgen.li.pdf"
               },
-              "icon": "excalidraw-icon",
-              "title": "VirtualAssistant"
+              "icon": "lucide-file-text",
+              "title": "Richard E. Jones - Human Reproductive Biology, Third Edition (2006, Academic Press) - libgen.li"
             }
           }
         ]
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10-Mind Map/VirtualAssistant.md",
+                "file": "6-Resources/Richard E. Jones - Human Reproductive Biology, Third Edition (2006, Academic Press) - libgen.li.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for VirtualAssistant"
+              "title": "Backlinks for Richard E. Jones - Human Reproductive Biology, Third Edition (2006, Academic Press) - libgen.li"
             }
           },
           {
@@ -184,6 +184,7 @@
   "active": "c3e52ae3166899b8",
   "lastOpenFiles": [
     "10-Mind Map/VirtualAssistant.md",
+    "6-Resources/Richard E. Jones - Human Reproductive Biology, Third Edition (2006, Academic Press) - libgen.li.pdf",
     "11-Daily Notes/Untitled.md",
     "10-Mind Map/test.md",
     "10-Mind Map/Portfolio.md",
@@ -209,7 +210,6 @@
     "1-Fleeting Notes/Tim burton artstyle.md",
     "1-Fleeting Notes/Understanding is a process, not an outcome.md",
     "1-Fleeting Notes/Time Limited Event.md",
-    "1-Fleeting Notes/The Feeling of Mysteriousness.md",
     "Untitled.base",
     "6-Resources/[publications] Linus Pauling - General Chemistry (1988, Dover) - libgen.li.pdf",
     "6-Resources/Carmine Gallo - Talk Like TED_ The 9 Public-Speaking Secrets of the World's Top Minds (2014, St. Martin's Press) - libgen.li.pdf",
@@ -218,7 +218,6 @@
     "6-Resources/Sönke Ahrens - How to Take Smart Notes_ One Simple Technique to Boost Writing, Learning and Thinking (2022, Sönke Ahrens) - libgen.li.pdf",
     "Excalidraw",
     "Untitled",
-    "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.pdf",
     "7-Archive/Images/Pasted image 20250628222828.png",
     "7-Archive/Images/Pasted image 20250623155750.png",
     "7-Archive/Images/Pasted image 20250623155707.png",
