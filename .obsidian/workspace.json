@@ -18,8 +18,21 @@
               "icon": "lucide-file-text",
               "title": "Richard E. Jones - Human Reproductive Biology, Third Edition (2006, Academic Press) - libgen.li"
             }
+          },
+          {
+            "id": "1d4faf4ff031ee05",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,7 +194,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3e52ae3166899b8",
+  "active": "1d4faf4ff031ee05",
   "lastOpenFiles": [
     "10-Mind Map/VirtualAssistant.md",
     "6-Resources/Richard E. Jones - Human Reproductive Biology, Third Edition (2006, Academic Press) - libgen.li.pdf",
