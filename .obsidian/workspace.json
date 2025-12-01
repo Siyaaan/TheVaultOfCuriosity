@@ -23,16 +23,42 @@
             "id": "1d4faf4ff031ee05",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "1-Fleeting Notes/Ideas can be dangerous.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Ideas can be dangerous"
+            }
+          },
+          {
+            "id": "a96a758a6d32410f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-12-01 22.13.55.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-01 22.13.55.excalidraw"
+            }
+          },
+          {
+            "id": "ac249cd981db3d1a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-12-01 22.13.55_0.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-01 22.13.55_0.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -119,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6-Resources/Richard E. Jones - Human Reproductive Biology, Third Edition (2006, Academic Press) - libgen.li.pdf",
+                "file": "Excalidraw/Drawing 2025-12-01 22.13.55_0.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Richard E. Jones - Human Reproductive Biology, Third Edition (2006, Academic Press) - libgen.li"
+              "title": "Backlinks for Drawing 2025-12-01 22.13.55_0.excalidraw"
             }
           },
           {
@@ -194,8 +220,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d4faf4ff031ee05",
+  "active": "ac249cd981db3d1a",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-12-01 22.13.55.excalidraw.md",
+    "Excalidraw/Drawing 2025-12-01 22.13.55_0.excalidraw.md",
+    "1-Fleeting Notes/Ideas can be dangerous.md",
+    "1-Fleeting Notes/Granting a desire for the players.md",
+    "1-Fleeting Notes/I suddenly become forgetful.md",
+    "13-Meta Reflection/Untitled 5.md",
     "10-Mind Map/VirtualAssistant.md",
     "6-Resources/Richard E. Jones - Human Reproductive Biology, Third Edition (2006, Academic Press) - libgen.li.pdf",
     "11-Daily Notes/Untitled.md",
@@ -213,16 +245,11 @@
     "1-Fleeting Notes/Clothing design and branding.md",
     "1-Fleeting Notes/Dig that concept on a deeper level.md",
     "1-Fleeting Notes/Incorporating Bloom's taxonomy with ai and implementing it on LMS.md",
-    "1-Fleeting Notes/Ideas can be dangerous.md",
     "1-Fleeting Notes/Leader can talk to ai and it will translate what they needs.md",
     "1-Fleeting Notes/Literature Notes.md",
     "1-Fleeting Notes/Making a legacy for the players.md",
     "1-Fleeting Notes/Making a legacy for cheaters.md",
     "1-Fleeting Notes/preventing the outcome of something while keeping the event.md",
-    "1-Fleeting Notes/Sandboxes-Too much freedom for the players.md",
-    "1-Fleeting Notes/Tim burton artstyle.md",
-    "1-Fleeting Notes/Understanding is a process, not an outcome.md",
-    "1-Fleeting Notes/Time Limited Event.md",
     "Untitled.base",
     "6-Resources/[publications] Linus Pauling - General Chemistry (1988, Dover) - libgen.li.pdf",
     "6-Resources/Carmine Gallo - Talk Like TED_ The 9 Public-Speaking Secrets of the World's Top Minds (2014, St. Martin's Press) - libgen.li.pdf",
