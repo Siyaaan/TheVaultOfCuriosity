@@ -84,9 +84,33 @@
               "icon": "lucide-file",
               "title": "You cannot lead without having your own moral compass"
             }
+          },
+          {
+            "id": "5b6f69c27d9547d7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
+            "id": "ddb53a7063cf0d3a",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-12-02 12.41.05.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-12-02 12.41.05.excalidraw"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -173,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "You cannot lead without having your own moral compass.md",
+                "file": "Excalidraw/Drawing 2025-12-02 12.41.05.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +207,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for You cannot lead without having your own moral compass"
+              "title": "Backlinks for Drawing 2025-12-02 12.41.05.excalidraw"
             }
           },
           {
@@ -248,8 +272,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f135c26c0cf88a0",
+  "active": "ddb53a7063cf0d3a",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-12-02 12.41.05.excalidraw.md",
     "Untitled 3.md",
     "You cannot lead without having your own moral compass.md",
     "Excalidraw/Drawing 2025-12-01 22.13.55.excalidraw.md",
@@ -278,7 +303,6 @@
     "1-Fleeting Notes/Clothing design and branding.md",
     "1-Fleeting Notes/Dig that concept on a deeper level.md",
     "1-Fleeting Notes/Incorporating Bloom's taxonomy with ai and implementing it on LMS.md",
-    "1-Fleeting Notes/Leader can talk to ai and it will translate what they needs.md",
     "Untitled.base",
     "6-Resources/[publications] Linus Pauling - General Chemistry (1988, Dover) - libgen.li.pdf",
     "6-Resources/Carmine Gallo - Talk Like TED_ The 9 Public-Speaking Secrets of the World's Top Minds (2014, St. Martin's Press) - libgen.li.pdf",
