@@ -1,5 +1,0 @@
-Is there a way in nvim where I open new seperate nvim instead on its terminal where its run
-
-Learn how to install plugins1
-
-Have a command list recommendation when typing in terminal
