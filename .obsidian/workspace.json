@@ -11,14 +11,12 @@
             "id": "c0a87422fc371a31",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "1-Permanent Notes/I can have a sense of passion for anything.md",
-                "mode": "source",
-                "source": false
+                "file": "6-Resources/Ellen G. White - The Faith I Live By (2010) - libgen.li.pdf"
               },
-              "icon": "lucide-file",
-              "title": "I can have a sense of passion for anything"
+              "icon": "lucide-file-text",
+              "title": "Ellen G. White - The Faith I Live By (2010) - libgen.li"
             }
           },
           {
@@ -102,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 383.5
+    "width": 383.5,
+    "collapsed": true
   },
   "right": {
     "id": "b3ad112b69fb1540",
@@ -197,6 +196,7 @@
   },
   "active": "c0a87422fc371a31",
   "lastOpenFiles": [
+    "1-Permanent Notes/I can have a sense of passion for anything.md",
     "6-Resources/Ellen G. White - The Faith I Live By (2010) - libgen.li.pdf",
     "6-Resources/Khaled Hosseini, - The Kite Runner (Bloomsbury Publishing) - libgen.li.pdf",
     "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.pdf",
@@ -232,7 +232,6 @@
     "1-Permanent Notes",
     "13-Meta Reflection",
     "11-Daily Notes",
-    "1-Source Notes/Devotionals",
     "7-Archive/Images/Pasted image 20250628222828.png",
     "7-Archive/Images/Pasted image 20250623155750.png",
     "7-Archive/Images/Pasted image 20250623155707.png",
