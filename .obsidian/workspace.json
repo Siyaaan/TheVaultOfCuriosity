@@ -11,12 +11,14 @@
             "id": "c0a87422fc371a31",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "10-Mind Map/MINDMAP.md"
+                "file": "1-Permanent Notes/Granting a desire for the players.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MINDMAP"
+              "icon": "lucide-file",
+              "title": "Granting a desire for the players"
             }
           },
           {
@@ -193,8 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7bde13e32bcb9b9c",
+  "active": "c0a87422fc371a31",
   "lastOpenFiles": [
+    "1-Permanent Notes/Unclear progression design.md",
+    "1-Permanent Notes/Making a legacy for cheaters.md",
+    "I have to be more open minded on the situations of others.md",
     "10-Mind Map/MINDMAP.md",
     "6-Resources/Ellen G. White - The Faith I Live By (2010) - libgen.li.pdf",
     "1-Permanent Notes/I can have a sense of passion for anything.md",
@@ -202,9 +207,7 @@
     "6-Resources/Khaled Hosseini - The Kite Runner Khaled Hosseini - libgen.li.pdf",
     "6-Resources/[publications] Linus Pauling - General Chemistry (1988, Dover) - libgen.li.pdf",
     "6-Resources/Carmine Gallo - Talk Like TED_ The 9 Public-Speaking Secrets of the World's Top Minds (2014, St. Martin's Press) - libgen.li.pdf",
-    "I have to be more open minded on the situations of others.md",
     "5-Indexes/System for Articulacy.md",
-    "1-Permanent Notes/Making a legacy for cheaters.md",
     "1-Rough Notes/Memorizing vs Reasoning.md",
     "1-Rough Notes/Mixing 2d and 3d depending on the scenario.md",
     "1-Rough Notes/Punishable way to learn.md",
@@ -225,7 +228,6 @@
     "1-Rough Notes/I suddenly become forgetful.md",
     "1-Source Notes/Restricting Systems of MMOs.md",
     "1-Permanent Notes/Untitled 2.md",
-    "5-Indexes/Untitled 4.md",
     "1-Source Notes/Roberto Ierusalimschy - Programming in Lua, Fourth Edition (2016, Lua.org) - libgen.li.pdf",
     "0 - Rough Notes",
     "1-Permanent Notes",
