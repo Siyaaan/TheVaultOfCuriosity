@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Fleeting Notes/Tim burton artstyle.md",
+                "file": "3-Insight Notes/I can have a sense of passion for anything.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tim burton artstyle"
+              "title": "I can have a sense of passion for anything"
             }
           }
         ],
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Fleeting Notes/Tim burton artstyle.md",
+                "file": "3-Insight Notes/I can have a sense of passion for anything.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tim burton artstyle"
+              "title": "Backlinks for I can have a sense of passion for anything"
             }
           },
           {
@@ -240,6 +240,8 @@
   },
   "active": "7750c84f9e2b623c",
   "lastOpenFiles": [
+    "3-Insight Notes/How Elaria would not restrict players.md",
+    "1-Fleeting Notes/Tim burton artstyle.md",
     "1-Fleeting Notes/Memorizing vs Reasoning.md",
     "1-Fleeting Notes/Making a legacy for the players.md",
     "1-Fleeting Notes/Incorporating Bloom's taxonomy with ai and implementing it on LMS.md",
@@ -249,7 +251,6 @@
     "10-Mind Map/Neovim Java Compiler.md",
     "10-Mind Map/Portfolio.md",
     "1-Fleeting Notes/Time Limited Event.md",
-    "1-Fleeting Notes/Tim burton artstyle.md",
     "1-Fleeting Notes/Making a legacy for cheaters.md",
     "1-Fleeting Notes/Literature Notes.md",
     "1-Fleeting Notes/Leader can talk to ai and it will translate what they needs.md",
@@ -265,7 +266,6 @@
     "Things that need to reconsider in terms of hardware.md",
     "Classification of nodes and lines on a mindmap.md",
     "Untitled.md",
-    "different powerful beings fought in this place.md",
     "Untitled.canvas",
     "7-Archive/Images/Pasted image 20250628222828.png",
     "7-Archive/Images/Pasted image 20250623155750.png",
