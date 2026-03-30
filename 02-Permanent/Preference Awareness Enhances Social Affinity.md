@@ -1,0 +1,2 @@
+Knowing a person’s preferences creates a reusable social context that guides interaction. Instead of repeatedly asking questions or guessing responses, preference knowledge allows conversations and actions to align naturally with what the other person values. This reduces friction and increases comfort, making interactions feel intentional rather than improvised. Over time, stored preference knowledge functions like infrastructure: it supports smoother communication, strengthens social presence, and enables meaningful connection without constant recalibration.
+

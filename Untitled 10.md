@@ -1,0 +1,1 @@
+**Each interests, pursuit, discipline has its own objective interpretation of what a person is.**

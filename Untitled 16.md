@@ -1,0 +1,1 @@
+**If we focus on the generalists, like giving them a better platform, then, they would thrive on it and specialists would naturally come up to the generalists**

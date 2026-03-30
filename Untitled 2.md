@@ -1,0 +1,1 @@
+**The attitude and character of a person comes down fundamentally on how their parents treat them**

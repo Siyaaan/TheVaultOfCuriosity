@@ -1,0 +1,1 @@
+**Looking at a bigger picture and zooming in on a certain things can develop intention**

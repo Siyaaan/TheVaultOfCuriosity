@@ -1,0 +1,1 @@
+If that will be the case, then we are only doing it for the sake of glory, popularity, and self. If I desperately push my self to be in that situation, I will only be mentally drained in the long run because my self has a strong conscience when my morals and principles are compromised.

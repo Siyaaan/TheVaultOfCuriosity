@@ -1,0 +1,1 @@
+**Restrictions enhances creativity**

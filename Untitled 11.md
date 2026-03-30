@@ -1,0 +1,1 @@
+**Colors have objective interpretations**
