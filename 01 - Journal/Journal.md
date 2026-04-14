@@ -1,1 +1,2 @@
-Initial journal for this vault
+Initial journal for this vault 
+checking for auto commit
