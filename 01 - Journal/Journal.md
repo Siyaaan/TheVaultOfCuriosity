@@ -1,0 +1,1 @@
+Initial journal for this vault
