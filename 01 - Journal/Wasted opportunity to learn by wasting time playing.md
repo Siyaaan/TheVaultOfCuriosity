@@ -8,3 +8,5 @@ I want to let out this frustration for wasting my time on just playing mlbb agai
 -Finishing DSA incomplete activity
 -Installing a local LLM
 	Running Claude Code
+
+Though today, I have finished installing windows AGAIN. but im sure this time it will stick now. Maybe the frustration that has also built up on me is because of the fucking download speed.
