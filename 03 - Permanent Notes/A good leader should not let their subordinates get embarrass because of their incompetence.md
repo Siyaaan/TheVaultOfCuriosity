@@ -1,0 +1,1 @@
+A leader is responsible for the mistake of their subordinates. They are the extension of yourself on which how you make them function. Letting them get embarrass on public or different people also reflects in your ability to lead them. That is why if you feel the leader is letting you get embarrassed, reconsidering if its worth serving them is important.
