@@ -48,19 +48,9 @@
               "icon": "lucide-file",
               "title": "The social cost of scapegoat"
             }
-          },
-          {
-            "id": "658eb7a54a668902",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,7 +224,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "658eb7a54a668902",
+  "active": "0b1af4b53fbbdf99",
   "lastOpenFiles": [
     "00 - Rough Notes/The process of practicing zettelkasten note taking should be slow and deliberate.md",
     "00 - Rough Notes/The social cost of scapegoat.md",
