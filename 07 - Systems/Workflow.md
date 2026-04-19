@@ -27,7 +27,7 @@ Purposes and Application :
 - Sytem will recommend my sources to read if ever it noticed simething wrong with my knowledge. It should not just explicitly tell me im wrong 
 - A memory palace 
 - System should also reference to a specific file im talking about like how github copilot give reference in code 
-- 
+- AI can give visual representation with OPM for its given tasks
 
 
 OBSIDIAN WORKFLOW 
