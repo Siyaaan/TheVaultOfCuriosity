@@ -1,0 +1,1 @@
+"No matter how much we want to... we'll never truly understand someone else. Not entirely. But that's part of understanding, isn't it? To misunderstand, to writhe, to struggle, to fail, but still, somehow... our desire to understand, to connect, to belong, to forgive, to grieve, to accept... it's gotten us farther than we once thought".

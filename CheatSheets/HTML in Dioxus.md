@@ -12,4 +12,4 @@
 |                        | span { "I am inside the div" } |                                                                  |
 |                        | ul { li { "Item 1" } }         |                                                                  |
 |                        | li { "Item 1" }                |                                                                  |
-|                        | [[Dioxus Event Handlers]]      |                                                                  |
+|                        | [[Event Handlers]]      |                                                                  |

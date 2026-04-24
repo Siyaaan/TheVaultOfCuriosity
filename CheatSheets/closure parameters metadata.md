@@ -1,3 +1,8 @@
+
+so it is just the name of the wrapper details, metadata, context, etc(just to be different from package) because the data (or the (thing: computer) has a cover
+
+## Example 
+
 | **Part of the Wrapper** | **What it tells you** | **Why it's useful**                          |
 | ----------------------- | --------------------- | -------------------------------------------- |
 | **`.value()`**          | "The Content"         | What the user typed.                         |

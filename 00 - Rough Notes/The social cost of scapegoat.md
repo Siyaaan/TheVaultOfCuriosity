@@ -1,1 +1,0 @@
-The worst case is if they also make them their subordinate as a scapegoat for their mistake, then they lose their trustworthiness.

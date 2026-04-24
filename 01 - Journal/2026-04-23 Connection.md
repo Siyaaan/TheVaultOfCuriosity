@@ -12,8 +12,8 @@ here's what I have encountered so far
 	[[Boolean]]
 		I still have to learn more about explicit and inferred and how do they apply, tho I know that inferred is used most of the time.
 	[[Closure Arguments]]
-	[[Dioxus Event Handlers]]
-	[[evt metadata]]
+	[[Event Handlers]]
+	[[closure parameters metadata]]
 	[[HTML in Dioxus]]
 	[[Immutable vs Mutable]]
 	[[Explicit type]]

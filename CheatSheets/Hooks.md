@@ -1,7 +1,30 @@
-| **Hook**           | **Purpose**  | **Example Case**                                 |
-| ------------------ | ------------ | ------------------------------------------------ |
-| **`use_signal`**   | Basic State  | A counter, a text input, a toggle.               |
-| **`use_resource`** | Async Data   | Fetching a list of users from a server.          |
-| **`use_memo`**     | Performance  | Filtering a large list based on a search term.   |
-| **`use_effect`**   | Reactions    | Printing to console when a value changes.        |
-| **`use_context`**  | Global State | Passing "Dark Mode" settings to every component. |
+
+1. State & Reactivity
+
+| **Hook**                   | **Usage**                                                  | **Example**                                   |
+| -------------------------- | ---------------------------------------------------------- | --------------------------------------------- |
+| **`use_signal`**           | The go-to hook for reactive state.                         | `let mut val = use_signal(                    |
+| **`use_memo`**             | Derived state. Only recalculates when dependencies change. | `let double = use_memo(move                   |
+| **`use_context`**          | Accesses "Global" state provided by an ancestor.           | `let theme = use_context::<Signal<Theme>>();` |
+| **`use_context_provider`** | Makes state available to all child components.             | `use_context_provider(                        |
+
+2. Side Effects & Async
+
+| **Hook**           | **Purpose**                                                           |
+| ------------------ | --------------------------------------------------------------------- |
+| **`use_resource`** | Used to programmatically change pages (e.g., `nav.push(Route::Home)`) |
+
+
+3. Lifecycle & References
+
+| **Hook**           | **Usage**                                                | **Example**                       |
+| ------------------ | -------------------------------------------------------- | --------------------------------- |
+| **`use_node_ref`** | Grabs a reference to a specific HTML element in the RSX. | `let input_ref = use_node_ref();` |
+| **`use_drop`**     | Runs code when the component is unmounted (destroyed).   | `use_drop(                        |
+
+4. Navigation (Dioxus Router)
+
+|**Hook**|**Purpose**|
+|---|---|
+|**`use_navigator`**|Used to programmatically change pages (e.g., `nav.push(Route::Home)`)|
+|**`use_route`**|Returns the current active route and its parameters.|

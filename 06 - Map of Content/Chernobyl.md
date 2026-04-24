@@ -1,1 +1,1 @@
-[["Every lie we tell incurs a debt to the truth. Sooner or later, that debt is paid."]]
+[["Every lie we tell incurs a debt to the truth. Sooner or later, that debt is paid." -Valery Legasov (Chernobyl)]]
